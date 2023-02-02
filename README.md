@@ -1,5 +1,5 @@
-# classification-maps
-Velkommen til Klassifikations mapnings siden.
+# Klassifikations mapning
+Velkommen til siden.
 
 
 Vi kikker bl.a. på 
