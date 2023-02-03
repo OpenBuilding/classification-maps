@@ -6,7 +6,8 @@ Vi vil forsøge at samle nogle lister med mapning mellem forskellige klassifikat
 * BIMTypeCode, forankret i  http://www.bimtypecode.com/
 * CCS/CSI , forankret i Molio
 * SfB
-* IFC’s bygningselementer og flere andre uformelle systemer.'
+* IFC’s bygningselementer og flere andre uformelle systemer.
+* BOSSINF
 
 
 Her er nogle eksempler på de eksisterende tabeller.
