@@ -1,17 +1,15 @@
 # Klassifikations mapning
-Velkommen til siden.
+
+Vi vil forsøge at samle nogle lister med mapning mellem forskellige klassifikationssytemer og typekodninger.
+
+* Forvaltningsklassifikationen, forankret i Landsbyggefonden
+* BIMTypeCode, forankret i  http://www.bimtypecode.com/
+* CCS/CSI , forankret i Molio
+* SfB
+* IFC’s bygningselementer og flere andre uformelle systemer.'
 
 
-Vi kikker bl.a. på 
-
-•	Forvaltningsklassifikationen, forankret i Landsbyggefonden
-•	BIMTypeCode, forankret i  http://www.bimtypecode.com/
-•	CCS/CSI , forankret i Molio
-•	SfB
-•	IFC’s bygningselementer og flere andre uformelle systemer.
-
-
-Her er nogle eksempler på de eksisterende tabeller, I må gerne sende mig flere, så jeg kan samle dem sammen.
+Her er nogle eksempler på de eksisterende tabeller.
 
 https://lbf.dk/publikationer/2014-forvaltnings-klassifikation/
 
