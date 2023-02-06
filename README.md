@@ -4,7 +4,7 @@ Vi vil forsøge at samle nogle lister med mapning mellem forskellige klassifikat
 
 * Forvaltningsklassifikationen, forankret i Landsbyggefonden
 * BIMTypeCode, forankret i  http://www.bimtypecode.com/
-* CCS/CSI , forankret i Molio
+* CCS/CCI , forankret i Molio
 * SfB
 * IFC’s bygningselementer og flere andre uformelle systemer.
 * BOSSINF
