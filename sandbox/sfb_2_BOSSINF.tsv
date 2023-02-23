@@ -34,15 +34,15 @@ level	FromCode	FromName_da	FromName_en	ToCode	ToName_da	ToName_en
 2	2.22.2	Indervægge ekskl. kælderindervægge			Øvrige bygningsdele	
 2	2.22.3	Skaktvægge, skorstensvanger, installationsskakte m.m.			Tekniske anlæg	
 2	2.22.4	Skakte for elevatorer			Tekniske anlæg	
-1	2.23	Dæk			Tag	
 1	2.23	Dæk			Etageadskillelser	
+1	2.23	Dæk			Tag	
 2	2.23.1	Kælderdæk og krybekælderdæk			Fundament og kælder	
 2	2.23.2	Etagedæk			Etageadskillelser	
 2	2.23.3	Tagdæk, særlige dæk under opbyggede tage			Tag	
 2	2.23.4	Tagdæk, fugt- og varmeisolering			Tag	
 1	2.24	Trapper og ramper			Altaner og altangange	
-2	2.24.1	Kældertrapper, udvendige			Altaner og altangange	
 2	2.24.1	Kældertrapper, udvendige			Fundament og kælder	
+2	2.24.1	Kældertrapper, udvendige			Altaner og altangange	
 2	2.24.2	Trapper udvendige			Altaner og altangange	
 2	2.24.3	Trapper indvendige			Altaner og altangange	
 2	2.24.4	Ramper udvendige			Altaner og altangange	
@@ -145,8 +145,8 @@ level	FromCode	FromName_da	FromName_en	ToCode	ToName_da	ToName_en
 2	5.50.3	Vand, stikledninger, brandhaner, vandposte			Afløb i jord og bygninger	
 2	5.50.4	Naturgas, stikledninger			Afløb i jord og bygninger	
 2	5.50.5	Fjernvarme, stikledninger			Afløb i jord og bygninger	
-2	5.50.6	Tanke for olie og gas			Øvrige bygningsdele	
 2	5.50.6	Tanke for olie og gas			Afløb i jord og bygninger	
+2	5.50.6	Tanke for olie og gas			Øvrige bygningsdele	
 2	5.50.7	Ledninger m.m. for jordvarme			Afløb i jord og bygninger	
 1	5.51	Affald			Tekniske anlæg	
 2	5.51.1	Affaldsanlæg			Tekniske anlæg	
@@ -252,3 +252,4 @@ level	FromCode	FromName_da	FromName_en	ToCode	ToName_da	ToName_en
 1	7.78	Øvrigt inventar			Øvrige bygningsdele	
 2	7.78.1	Øvrigt inventar			Øvrige bygningsdele	
 2	7.78.2	Specialinventar			Øvrige bygningsdele	
+					Vådrum	
