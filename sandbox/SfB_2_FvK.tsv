@@ -1,0 +1,250 @@
+LCC-SfB Kode	LCC-SfB bygningsdelstavle	FvK-Kode	Forvaltnings Klassifikation
+1	Bygningsbasis		
+1.10	Bygningsbasis, terræn		
+1.10.4	Pælefundamenter og brøndfundamenter	bk.fun	
+1.10.5	Fundamenter i terræn		
+1.12	Fundamenter, bygning	bk.fun	Fundament
+1.12.1	Liniefundamenter	bk.fun	Fundament
+1.12.2	Punktfundamenter	bk.fun	Fundament
+1.12.3	Pladefundamenter	bk.fun	Fundament
+1.12.4	Fundamenter, fugt- og varmeisolering		
+1.13	Terrændæk, bygning	bk.dæk	Dækkonstruktion
+1.13.1	Terrændæk, kældre	bk.dæk	Dækkonstruktion
+1.13.2	Terrændæk i terrænniveau	bk.dæk	Dækkonstruktion
+1.18	Bygningsbasis bygning, øvrige		
+1.18.1	Kanaler under terræn	bk.kan	Kanaler, ingeniørgange
+1.18.2	Gruber og sumpe		
+2	Primære bygningsdele		
+2.20	Primære bygningsdele, terræn		
+2.20.1	Sekundære bygninger	ti.sby	Småbygninger
+2.20.2	Hegnsmure	tk.heg	Hegn
+2.20.3	Støttemure	tk.væg	Væg
+2.20.4	Teknikgange i terræn inkl. rør-broer og tunneller	tk.tek	Teknikgang
+2.20.5	Fodgængerbroer, viadukter m.m.	tk.bro	Bro
+2.20.6	Trapper og ramper i terræn	tk.tra	Trappe og rampe
+2.21	Ydervægge	bk.væg	Væg
+2.21.1	Kælderydervægge	bk.væg	Væg
+2.21.2	Lyskasser	bk.lys	Lyskasse
+2.21.3	Ydervægge	bk.væg	Væg
+2.21.4	Kælderydervægge, fugt- og varmeisolering		
+2.21.5	Ydervægge, fugt- og varmeisolering		
+2.22	Indervægge	bk.væg	Væg
+2.22.1	Kælderindervægge	bk.væg	Væg
+2.22.2	Indervægge ekskl. kælderindervægge	bk.væg	Væg
+2.22.3	Skaktvægge, skorstensvanger, installationsskakte m.m.	bk.væg	Væg
+2.22.4	Skakte for elevatorer	bk.væg	Væg
+2.23	Dæk	bk.dæk	Dækkonstruktion
+2.23.1	Kælderdæk og krybekælderdæk	bk.dæk	Dækkonstruktion
+2.23.2	Etagedæk	dk.dæk	Dækkonstruktion
+2.23.3	Tagdæk, særlige dæk under opbyggede tage	bk.dæk	Dækkonstruktion
+2.23.4	Tagdæk, fugt- og varmeisolering		
+2.24	Trapper og ramper	bk.tra	Trappe
+2.24.1	Kældertrapper, udvendige	bk.tra	Trappe
+2.24.2	Trapper udvendige	bk.tra	Trappe
+2.24.3	Trapper indvendige	bk.tra	Trappe
+2.24.4	Ramper udvendige	bk.ram	Rampe
+2.24.5	Ramper indvendige	bk.ram	Rampe
+2.24.6	Faste stiger	bk.tra	Trappe
+2.25	Bærende konstruktioner		
+2.25.1	Bærende konstruktioner, øvrige (søjler, bjælker, rammer, skaller)		
+2.25.2	Bærende konstruktioner, øvrige, fugt- og varmeisolering		
+2.26	Altaner og altangange	bk.alt	Altan
+2.26.1	Altaner og altangange, udkragede	bk.alt	Altan
+2.26.2	Altaner og altangange, fritliggende	bk.alt	Altan
+2.26.3	Altaner og altangange, påhængte	bk.alt	Altan
+2.26.4	Altaner og altangange, fritstående	bk.alt	Altan
+2.27	Tage	bk.tak	Tagkonstruktion
+2.27.1	Tagværker	bk.tak	Tagkonstruktion
+2.27.2	Baldakiner og overdækninger	bk.tak	Tagkonstruktion
+2.27.3	Tage, fugt- og varmeisolering		
+2.28	Øvrige primære bygningsdele, bygning		
+2.28.1	Øvrige primære bygningsdele, bygning		
+3	Kompletterende bygningsdele		
+3.30	Kompletterende bygningsdele, terræn		
+3.30.1	Komplettering sekundære bygninger	ti.sby	"Småbygninger   ikke registreret
+som bygning   (x"
+3.30.3	Komplettering trapper, ramper m.m. i terræn	tk.tra	Trapper og rampe
+3.31	Ydervægge, komplettering		
+3.31.1	Kælderydervægge, kompletterende del (døre, vinduer m.m.)	bk.dør	Dør
+3.31.2	Døre, ydervægge	bk.dør	Dør
+3.31.3	Porte, ydervægge	bk.por	Porte
+3.31.4	Vinduer, ydervægge	bk.vin	Vindue
+3.31.5	Solskærme, skodder, gitre m.m.	bk.vin	Vindue
+3.31.6	Sålbænke, inddækninger m.m.	bk.dør	Dør
+3.31.7	Termoruder og flerlagsruder m.m.	bk.væg	Væg
+3.32	Indervægge, komplettering		
+3.32.1	Døre, indervægge	bk.dør	Dør
+3.32.2	Vinduer, indervægge	bk.lug	Luger og lemme
+3.32.3	Bevægelige indervægge	bk.væg	Væg
+3.32.4	Indfatninger, fodpaneler og fendere	bk.dør	Dør
+3.33	Dæk, komplettering		
+3.33.1	Opbyggede gulve	bk.gul	Gulv
+3.33.2	Svømmende gulve	bk.gul	Gulv
+3.33.3	Lemme, riste, måtterammer m.m.	bk.gul	Gulv
+3.33.4	Sokler til maskiner	bk.fun	Fundament
+3.34	Trapper og ramper, komplettering		
+3.34.1	Gelændere og rækværker, udvendige	bk.tra	Trappe
+3.34.2	Gelændere og rækværker, indvendige	bk.tra	Trappe
+3.34.3	Riste, måtterammer m.m.	bk.tra	Trappe
+3.35	Lofter, komplettering		
+3.35.1	Nedhængte lofter	bk.lof	Loft
+3.35.2	Påbyggede lofter	bk.lof	Loft
+3.36	Altaner		
+3.36.1	Rækværker, brystninger	bk.alt	Altan
+3.37	Tage, komplettering		
+3.37.1	Kviste m.m.	bk.kvi	Kvist
+3.37.2	Ovenlys og røglemme	bk.lug	Luger og lemme
+3.37.3	Solskærme til ovenlys	bk.vin	Vindue
+3.37.4	Snefang, rækværker, afskærmninger m.m.	bk.tad	Tagdækning
+3.37.5	Inspektionslemme, døre m.m.	bk.dør	Dør
+3.37.6	Tagudhæng, vindskeder, sternbrædder og inddækninger	bk.tad	Tagdækning
+3.38	Kompletterende bygningsdele bygning, øvrige		
+3.38.1	Kompletterende bygningsdele bygning, øvrige		
+4	Overfladebygningsdele	bk.ovf	Overflader
+4.40	Belægninger, terræn		
+4.40.1	Overflader, sekundære bygninger	ti.sby	Småbygninger
+4.40.2	Stier, belægninger	tk.bel	Belægninger
+4.40.3	Veje, parkeringsarealer, belægninger	tk.bel	Belægninger
+4.40.4	Opholdsarealer, belægninger	tk.bel	Belægninger
+4.40.5	Sports- og havearealer, belægninger	tk.bel	Belægninger
+4.40.6	Trapper og ramper i terræn, overflader	tk.tra	Trapper og ramper
+4.41	Udvendige vægoverflader		
+4.41.1	Kælderydervægge, udvendige overflader	bk.ovf	Overflade
+4.41.2	Kælderydervægge, kompletterende del, overflader	bk.ovf	Overflade
+4.41.3	Ydervægge, udvendige overflader	bk.ovf	Overflade
+4.41.4	Ydervægge, kompletterende dele, overflader	bk.ovf	Overflade
+4.42	Indvendige vægoverflader		
+4.42.1	Indvendige vægoverflader	bk.ovf	Overflade
+4.42.2	Indervægge kompletterende dele, overflader	bk.ovf	Overflade
+4.43	Dæk og gulve, overflader		
+4.43.1	Terrændæk, overflader	bk.dæk	Dækkonstruktion
+4.43.2	Etagedæk, overflader	bk.dæk	Dækkonstruktion
+4.44	Trapper og ramper, overflader		
+4.44.1	Kældertrapper og kælderramper, udvendige, overflader	bk.ovf	Overflade
+4.44.2	Trapper, udvendige, overflader	bk.ovf	Overflade
+4.44.3	Trapper, indvendige, overflader	bk.ovf	Overflade
+4.44.4	Ramper, udvendige, overflader	bk.ovf	Overflade
+4.44.5	Ramper, indvendige, overflader	bk.ovf	Overflade
+4.45	Lofter, overflader	bk.lof	Loft
+4.45.1	Lofter, overflader		
+4.46	Altaner, overflader		
+4.46.1	Altaner, oversider, overflader	bk.alt	Altan
+4.46.2	Altaner, undersider, overflader	bk.alg	Altangang
+4.47	Tage, overflader		
+4.47.1	Tage, overflader	bk.tad	Tagdækning
+4.48	Overflader bygning, øvrige		
+4.48.1	Overflader bygningsdele, øvrige		
+5	VVS-anlæg		
+5.50	VVS-anlæg, terræn		
+5.50.1	Afløb, stikledninger og overfladeafvanding	tt.afl.led	Afløb, ledning
+5.50.2	Drænledninger	tt.afl.dræ	Afløb, drænledning
+5.50.3	Vand, stikledninger, brandhaner, vandposte	tt.van.led	Vand, ledning
+5.50.4	Naturgas, stikledninger	tt.gas.sti	Gas, stikledning
+5.50.5	Fjernvarme, stikledninger	tt.var.sti	Varme, stikledning
+5.50.6	Tanke for olie og gas	tt.gas.tan	Tanke, gas
+5.50.7	Ledninger m.m. for jordvarme	tt.aut.sam	Automationssystem
+5.51	Affald		
+5.51.1	Affaldsanlæg	bi.aff	Affaldscontainer, -beholder
+5.52	Afløb og sanitet		
+5.52.1	Afløb under bygning (til nærmeste brønd eller ledning)	tt.afl.sam	Afløbssystem
+5.52.2	Dræn under bygning (omfangsdræn)	tt.afl.dræ	Drænledning
+5.52.3	Faldstammer, afløbsskåle	bt.afl.ops	Afløb, opsamling
+5.52.4	Tagrender og nedløb	bt.afl.ops	Afløb, opsamling  (tagrender)
+5.52.5	Forbrugsanlæg (vaske, vaskemaskiner inkl. armaturer for vand)	bt.afl.ops	Afløb, opsamling (sanitet)
+5.53	Vand	bt.van.sam	Vandsystem (samlet)
+5.53.1	Forsyningsanlæg (målere, beholdere m.m.)	bt.van.mål	Målerarrangement
+5.53.2	Distributionsanlæg (rør, ventiler m.m.)	bt.van.rør	Røranlæg
+5.53.3	Forbrugsanlæg (diverse aftapning)	bt.van.for	Forbrugsanlæg
+5.54	Luftarter	bt.gas.sam	Gas og luft
+5.54.1	Forsyningsanlæg (kompressorer, målere, beholdere m.m.)	bt.gas.sam	Gas og luft
+5.54.2	Distributionsanlæg (rør, ventiler m.m.)	bt.gas.sam	Gas og luft
+5.54.3	Forbrugsanlæg (armaturer, gasradiatorer m.m.)	bt.gas.sam	Gas og luft
+5.55	Køling	bt.køl.sam	Køleanlæg (samlet)
+5.55.1	Forsyningsanlæg (aggregater m.m.)	bt.køl.pro	Køleproduktionsanlæg
+5.55.2	Distributionsanlæg (rør, ventiler m.m.)	bt.køl.rør	Røranlæg
+5.55.3	Forbrugsanlæg (fordampere, køleflader, regulering, automatik m.m.)	bt.køl.for	Forbrugsanlæg
+5.56	Varme	bt.var.sam	Varmeanlæg (samlet)
+5.56.1	Forsyningsanlæg (kedler, varmevekslere, målere m.m.)	bt.var.pro	Varmeproduktionsanlæg
+5.56.2	Distributionsanlæg (rør, ventiler m.m.)	bt.var.rør	Røranlæg
+5.56.3	Forbrugsanlæg (varmeflader, varmeventilatorer, lokal automatik og regulering m.m.)	bt.var.for	Varme, forbrugsanlæg
+5.57	Ventilationsanlæg	bt.ven.sam	Ventilationsanlæg (samlet)
+5.57.1	Forsyningsanlæg (ventilationscentraler m.m.)	bt.ven.agg	Aggregat
+5.57.2	Distributionsanlæg (rør, ventiler m.m.)	bt.ven.kan	Kanal
+5.57.3	Forbrugsanlæg (armaturer, emhætter, aftrækshætter m.m.)	bt.ven.iar	Indblæsningsarmatur
+5.58	VVS-anlæg, bygning, øvrige		
+5.58.1	Sprinkleranlæg	bt.van.for	Vand, Forbrugsanlæg
+5.58.2	Vandrensningsanlæg	bt.van.beh	Vandbehandlingsanlæg
+5.58.3	Specialanlæg for væsker		
+6	El- og mekaniske anlæg		
+6.60	El- og mekaniske anlæg, terræn	tt.elf.sam	Elforsyningsanlæg (samlet)
+6.60.1	Stikledninger udenfor bygningen	tt.elf.sti	Elforsyning, stikledning
+6.60.2	Vej- og pladsbelysningsanlæg	tt.bly.sam	Vej- og pladsbelysningsanlæg
+6.62	Højspændingsanlæg		
+6.62.1	Forsyning	bt.elf.sam	Elforsyningsanlæg
+6.62.2	Hovedfordeling	bt.elf.sam	Elforsyningsanlæg
+6.62.3	Maskiner og maskinanlæg	bt.elf.sam	Elforsyningsanlæg
+6.62.4	El-tekniske anlæg	bt.var.sam	Varmeanlæg (samlet)
+6.62.5	Sekundære højspændingsanlæg	bt.elf.sam	Elforsyningsanlæg (samlet)
+6.63	Lavspændingsanlæg	bt.elf.sam	Elforsyningsanlæg (samlet)
+6.63.1	Forsyning	bt.elf.sam	Elforsyningsanlæg (samlet)
+6.63.2	Hovedfordeling	bt.elf.sam	Elforsyningsanlæg (samlet)
+6.63.3	Maskiner og maskinanlæg	bt.elf.sam	Elforsyningsanlæg (samlet)
+6.63.4	El-tekniske anlæg	bt.var.sam	Varmeanlæg (samlet)
+6.63.5	Belysningsanlæg	bt.bly.sam	Belysningsanlæg (samlet)
+6.63.6	El-varme	bi.elr	El-radiatorer og apparater
+6.63.7	El-apparater	bi.elr	El-radiatorer og apparater
+6.64	Elektronik og svagstrøm		
+6.64.1	Kommunikationsanlæg	bt.kom,sam	Kommunikationsanlæg (samlet)
+6.64.2	Dataanlæg	bt.kom.sam	Kommunikationsanlæg (samlet)
+6.64.3	Informationsanlæg	bt.kom.sam	Kommunikationsanlæg (samlet)
+6.64.4	Sikringsanlæg	bt.adg.sam	Adgangssystem(samlet)
+6.64.5	Proceskontrolanlæg	bt.aut.sam	Automationssystem (samlet)
+6.66	Transportanlæg	bt.tra.sam	Transportsystem (samlet)
+6.66.1	Elevatorer	bt.tra.sam	Transportsystem (samlet)
+6.66.2	Rullende trapper	bt.tra.sam	Transportsystem (samlet)
+6.66.3	Transportbånd	bt.tra.sam	Transportsystem (samlet)
+6.67	Mekaniske anlæg, øvrige		
+6.67.1	Mekaniske anlæg, øvrige		
+6.68	El-anlæg, øvrige		
+6.68.1	El-anlæg, øvrige		
+7	Inventar og udstyr		
+7.70	Inventar, terræn	ti	Inventar, terræn
+7.70.1	Tekniske inventarenheder, p-automater m.m.	ti.tei	"Teknisk inventar, P-automater
+m.v."
+7.70.2	Tavler, skilte og skærme	ti.tav	"Tavler, skilte, skærme, riste,
+postkasser og cykelstativer"
+7.70.3	Opbevaring, affaldsstativer, cykelstativer, postkasser m.m.	ti.aff	"Affaldscontainer, -beholder og
+-stativ"
+7.70.4	Bordmøbler	ti.bor	Borde og bænke
+7.70.5	Siddemøbler	ti.bor	Borde og bænke
+7.71	Teknisk inventar	bi	Inventar
+7.71.1	Automater for mad, drikke, sæbe m.m.	bi.atm	Automater for mad og drikke
+7.71.2	Løse lamper	bi.lam	Lamper, løse
+7.71.3	Brandslukningsudstyr	bi.bra	Brandslukker
+7.72	Tavler, skilte og skærme		
+7.72.1	Skilte	bi.ski	Skilte
+7.72.2	Spejle	bi.bad	Badeværelse inventar
+7.72.3	AV-udrustning, tavler, projektorskærme	bi.avu	AV-udstyr
+7.73	Opbevaringsmøbler	bi.møb	Møbler
+7.73.1	Hylder	bi.møb	Møbler
+7.73.2	Skabe og skuffemøbler	bi.møb	Møbler
+7.73.3	Køkkenskabe	bi.køk	Køkkeninventar
+7.73.4	Toiletskabe	bi.bad	Badeværelse inventar
+7.74	Bordmøbler	bi.møb	Møbler
+7.74.1	Bordplader	bi.møb	Møbler
+7.74.2	Arbejdsborde	bi.møb	Møbler
+7.74.3	Borde til ophold og hvile	bi.møb	Møbler
+7.75	Siddemøbler	bi.møb	Møbler
+7.75.1	Stole, bænke m.m . til arbejdsbrug	bi.møb	Møbler
+7.75.2	Stole, bænke, sofaer m.m. til ophold og hvile	bi.møb	Møbler
+7.76	Liggemøbler	bi.møb	Møbler
+7.76.1	Sengemøbler til alm. boliger	bi.møb	Møbler
+7.76.2	Sengemøbler til institutioner m.m.	bi.møb	Møbler
+7.77	Boligtekstiler og afskærmning	bi.tet	Tekstil
+7.77.1	Gardiner og forhæng	bi.tet	Tekstil
+7.77.2	Gulvtæpper og måtter	bi.tet	Tekstil
+7.77.3	Persienner	bi.tet	Tekstil
+7.77.4	Skærmvægge	bi.skæ	Skærmvæg
+7.78	Øvrigt inventar		
+7.78.1	Øvrigt inventar		
+7.78.2	Specialinventar		
