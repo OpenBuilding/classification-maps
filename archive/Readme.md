@@ -1,1 +1,1 @@
-## Denne mappe er et arkiv over tidligere mappings
+## Denne mappe er et arkiv over tidligere masters og mappings
