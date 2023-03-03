@@ -1,5 +1,5 @@
 FromLevel;FromCode;FromName_da;FromName_en;FromProperty_PropertyName;ToLevel;ToCode;ToName_da;ToName_en;ToProperty_PropertyName
-0;1;_Bygningsbasis;;;;;;;
+0;1;Bygningsbasis;;;;;;;
 1;1.10;Bygningsbasis, terræn;;;;;Fundament og kælder;;
 2;1.10.4;Pælefundamenter og brøndfundamenter;;;;;Fundament og kælder;;
 2;1.10.5;Fundamenter i terræn;;;;;Fundament og kælder;;
