@@ -1,1 +1,1 @@
-## Denne mappe indeholder de aktuelle mappings
+## Denne mappe indeholder aktuelle masters og mappings
