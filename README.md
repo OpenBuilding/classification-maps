@@ -31,6 +31,8 @@ Tidligere versioner af mappings og masters finder du mappen "archive". Heri find
 
 Se desuden yderligere information om mappings og master i readme-filer i mapperne.
 
+Genvej til aktuelle mappings [HER](https://github.com/OpenBuilding/classification-maps/tree/main/current/mappings).
+
 ## Diagram for mappestruktur
 - /current/mappings/from_2_to.csv|.tsv
 - /current/masters/from_2_x.csv|tsv
