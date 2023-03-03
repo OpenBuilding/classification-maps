@@ -1,9 +1,9 @@
 FromLevel;FromCode;FromName_da;FromName_en;FromProperty_PropertyName;ToLevel;ToCode;ToName_da;ToName_en;ToProperty_PropertyName
 0;1;Bygningsbasis;;;;;;;
 1;1.10;Bygningsbasis, terræn;;;;;;;
-1;1.10.1;Forberedt grund;;;;;;;;
-1;1.10.2;Byggegrube inkl. afstivning;;;;;;;;
-1;1.10.3;Spunsvægge;;;;;;;;
+2;1.10.1;Forberedt grund;;;;;;;;
+2;1.10.2;Byggegrube inkl. afstivning;;;;;;;;
+2;1.10.3;Spunsvægge;;;;;;;;
 2;1.10.4;Pælefundamenter og brøndfundamenter;;;;;;;
 2;1.10.5;Fundamenter i terræn;;;;;;;
 1;1.12;Fundamenter, bygning;;;;;;;
