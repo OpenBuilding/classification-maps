@@ -11,5 +11,10 @@
 ## Bemærkninger
 - Er tilføjet 1.10.1, 1.10.2 og 1.10.3, der fremgår af BC/SfB-Bygningsdeltavle (1988).
 
+- SfB koder er tilpasset som de fremgår af LCCbyg, frem for det originale SfB-kode-format. Princippet er:
+  - Hovedgruppe: 1 => 1
+  - Bygningsdele: 10 => 1.10
+  - Undergruppe: 10.1 => 1.10.1
+
 ## Licens
 - ?
