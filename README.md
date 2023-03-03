@@ -21,8 +21,10 @@ https://github.com/bimtypecode/bimtypecode/blob/mapping-table-dk/dk/BIMTypeCode%
 
 # Mappestruktur
 
-Du finder aktuelle mappinger mellem klassifikationer i mappen "current".
-Heri findes mapperne "mappings" og "masters". Mappen "mappings" huser mappings navngivet efter princippet "From_2_To.csv" og ".tsv".
+Du finder aktuelle mappinger mellem klassifikationer i mappen "current". Heri findes mapperne "mappings" og "masters". 
+
+Mappen "mappings" huser mappings navngivet efter princippet "From_2_To.csv" og ".tsv".
+
 Mappen "masters" indeholder skabeloner for mappings, hvor From-siden er udfyldt og To-siden er blank. Disse findes ligeledes i .csv og .tsv-format.
 
 Tidligere versioner af mappings og masters finder du mappen "archive". Heri findes mapper navngivet med version. I hver af disse findes "mappings" og "master" filer.
