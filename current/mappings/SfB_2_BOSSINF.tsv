@@ -1,254 +1,254 @@
-	Unnamed: 0	FromLevel	FromCode	FromName_da	FromName_en	FromProperty_PropertyName	ToLevel	ToCode	ToName_da	ToName_en	ToProperty_PropertyName
-0	0	0	1	Bygningsbasis	Substructure						
-1	1	1	1.10	Bygningsbasis, terræn	Prepared site				Fundament og kælder		
-2	2	2	1.10.4	Pælefundamenter og brøndfundamenter	Pile foundations and well foundations				Fundament og kælder		
-3	3	2	1.10.5	Fundamenter i terræn	Foundations in terrain				Fundament og kælder		
-4	4	1	1.12	Fundamenter, bygning	Foundations				Fundament og kælder		
-5	5	2	1.12.1	Liniefundamenter	Strip foundations				Fundament og kælder		
-6	6	2	1.12.2	Punktfundamenter	Pad foundations				Fundament og kælder		
-7	7	2	1.12.3	Pladefundamenter	Slab foundations				Fundament og kælder		
-8	8	2	1.12.4	Fundamenter, fugt- og varmeisolering					Fundament og kælder		
-9	9	1	1.13	Terrændæk, bygning	Floor slabs				Fundament og kælder		
-10	10	2	1.13.1	Terrændæk, kældre	Floor slabs, basement				Fundament og kælder		
-11	11	2	1.13.2	Terrændæk i terrænniveau	Floor slabs, ground level				Fundament og kælder		
-12	12	2	1.13.3	Terrændæk, fugt- og varmeisolering	Floor slabs, moisture and thermal insulation				Fundament og kælder		
-13	13	1	1.18	Bygningsbasis bygning, øvrige	Other substructures				Fundament og kælder		
-14	14	2	1.18.1	Kanaler under terræn	Drains below ground level				Fundament og kælder		
-15	15	2	1.18.2	Gruber og sumpe	Pits and sumps				Fundament og kælder		
-16	16	0	2	Primære bygningsdele	Structure						
-17	17	1	2.20	Primære bygningsdele, terræn	Site structures						
-18	18	2	2.20.1	Sekundære bygninger	Secondary buildings				Øvrige bygningsdele		
-19	19	2	2.20.2	Hegnsmure	Fence walls				Øvrige bygningsdele		
-20	20	2	2.20.3	Støttemure	Retaining walls				Øvrige bygningsdele		
-21	21	2	2.20.4	Teknikgange i terræn inkl. rør-broer og tunneller	Engineering ducts including pipe bridges and tunnels				Øvrige bygningsdele		
-22	22	2	2.20.5	Fodgængerbroer, viadukter m.m.	Footbridges, viaducts, etc.				Øvrige bygningsdele		
-23	23	2	2.20.6	Trapper og ramper i terræn	Stairs and ramps, on site				Øvrige bygningsdele		
-24	24	1	2.21	Ydervægge	Exterior walls				Ydervægge	Exterior walls	
-25	25	2	2.21.1	Kælderydervægge	Basement walls, exterior				Fundament og kælder		
-26	26	2	2.21.2	Lyskasser	Light shafts				Fundament og kælder		
-27	27	2	2.21.3	Ydervægge	Exterior walls				Ydervægge	Exterior walls	
-28	28	2	2.21.4	Kælderydervægge, fugt- og varmeisolering	Exterior basement walls, moisture and thermal insulation				Fundament og kælder		
-29	29	2	2.21.5	Ydervægge, fugt- og varmeisolering	Exterior walls, moisture and thermal insulation				Ydervægge	Exterior walls	
-30	30	1	2.22	Indervægge	Interior walls				Øvrige bygningsdele		
-31	31	2	2.22.1	Kælderindervægge	Basement walls, interior				Fundament og kælder		
-32	32	2	2.22.2	Indervægge ekskl. kælderindervægge	Partition walls, excl. basement partition walls				Øvrige bygningsdele		
-33	33	2	2.22.3	Skaktvægge, skorstensvanger, installationsskakte m.m.	Shaft walls, chimney walls, installation shafts, etc.				Tekniske anlæg		
-34	34	2	2.22.4	Skakte for elevatorer	Lift shafts				Tekniske anlæg		
-35	35	1	2.23	Dæk	Floors				Tag		
-36	36	1	2.23	Dæk	Floors				Etageadskillelser		
-37	37	2	2.23.1	Kælderdæk og krybekælderdæk	Basement slabs and crawl space slabs				Fundament og kælder		
-38	38	2	2.23.2	Etagedæk	Floor slabs				Etageadskillelser		
-39	39	2	2.23.3	Tagdæk, særlige dæk under opbyggede tage	Builtup roofs				Tag		
-40	40	2	2.23.4	Tagdæk, fugt- og varmeisolering	Roof slabs, moisture and thermal insulation				Tag		
-41	41	1	2.24	Trapper og ramper	Stairs				Altaner og altangange	Balconies and walkways	
-42	42	2	2.24.1	Kældertrapper, udvendige	Basement stairs, exterior				Fundament og kælder		
-43	43	2	2.24.1	Kældertrapper, udvendige	Basement stairs, exterior				Altaner og altangange	Balconies and walkways	
-44	44	2	2.24.2	Trapper udvendige	Stairs, exterior				Altaner og altangange	Balconies and walkways	
-45	45	2	2.24.3	Trapper indvendige	Stairs, interior				Altaner og altangange	Balconies and walkways	
-46	46	2	2.24.4	Ramper udvendige	Ramps, exterior				Altaner og altangange	Balconies and walkways	
-47	47	2	2.24.5	Ramper indvendige	Ramps, interior				Altaner og altangange	Balconies and walkways	
-48	48	2	2.24.6	Faste stiger	Fixed ladders				Ydervægge	Exterior walls	
-49	49	1	2.25	Bærende konstruktioner	Load-bearing structures				Ydervægge	Exterior walls	
-50	50	2	2.25.1	Bærende konstruktioner, øvrige (søjler, bjælker, rammer, skaller)	Load-bearing constructions, other (columns, beams, etc.)				Ydervægge	Exterior walls	
-51	51	2	2.25.2	Bærende konstruktioner, øvrige, fugt- og varmeisolering	Load-bearing constructions, other, moisture and thermal insulation				Ydervægge	Exterior walls	
-52	52	1	2.26	Altaner og altangange	Balconies and walkways				Altaner og altangange	Balconies and walkways	
-53	53	2	2.26.1	Altaner og altangange, udkragede	Balconies and walkways, cantilevered				Altaner og altangange	Balconies and walkways	
-54	54	2	2.26.2	Altaner og altangange, fritliggende	Balconies and walkways, detached				Altaner og altangange	Balconies and walkways	
-55	55	2	2.26.3	Altaner og altangange, påhængte	Balconies and walkways, wall-mounted				Altaner og altangange	Balconies and walkways	
-56	56	2	2.26.4	Altaner og altangange, fritstående	Balconies and walkways, free-standing				Altaner og altangange	Balconies and walkways	
-57	57	1	2.27	Tage	Roofs				Tag		
-58	58	2	2.27.1	Tagværker	Roof truss				Tag		
-59	59	2	2.27.2	Baldakiner og overdækninger	Canopies and covers				Tag		
-60	60	2	2.27.3	Tage, fugt- og varmeisolering	Roofs, moisture and thermal insulation				Tag		
-61	61	1	2.28	Øvrige primære bygningsdele, bygning	Other structures				Øvrige bygningsdele		
-62	62	2	2.28.1	Øvrige primære bygningsdele, bygning	Other structures				Øvrige bygningsdele		
-63	63	0	3	Kompletterende bygningsdele	Completions						
-64	64	1	3.30	Kompletterende bygningsdele, terræn	Site enclosures						
-65	65	1	3.30	Kompletterende bygningsdele, terræn	Site enclosures				Øvrige bygningsdele		
-66	66	2	3.30.1	Komplettering sekundære bygninger	Secondary buildings, completions				Øvrige bygningsdele		
-67	67	2	3.30.3	Komplettering trapper, ramper m.m. i terræn	Stairs and ramps, on site, completions				Øvrige bygningsdele		
-68	68	1	3.31	Ydervægge, komplettering	Exterior walls, completions				Døre og vinduer		
-69	69	2	3.31.1	Kælderydervægge, kompletterende del (døre, vinduer m.m.)	Basement, exterior walls (doors, windows, etc.)				Fundament og kælder		
-70	70	2	3.31.2	Døre, ydervægge	Doors, exterior walls				Døre og vinduer		
-71	71	2	3.31.3	Porte, ydervægge	Gates, exterior walls				Døre og vinduer		
-72	72	2	3.31.4	Vinduer, ydervægge	Windows, exterior walls				Døre og vinduer		
-73	73	2	3.31.5	Solskærme, skodder, gitre m.m.	Sun protection, shutters, lattice, etc.				Døre og vinduer		
-74	74	2	3.31.6	Sålbænke, inddækninger m.m.	Window sill, flashings, etc.				Døre og vinduer		
-75	75	2	3.31.7	Termoruder og flerlagsruder m.m.	Double-glazing and multi-glazing panes, etc.				Døre og vinduer		
-76	76	1	3.32	Indervægge, komplettering	Interior walls, completions				Døre og vinduer		
-77	77	2	3.32.1	Døre, indervægge	Doors, interior walls				Døre og vinduer		
-78	78	2	3.32.2	Vinduer, indervægge	Windows, interior walls				Døre og vinduer		
-79	79	2	3.32.3	Bevægelige indervægge	Moveable partition walls				Øvrige bygningsdele		
-80	80	2	3.32.4	Indfatninger, fodpaneler og fendere	Framing, skirting, etc.				Øvrige bygningsdele		
-81	81	1	3.33	Dæk, komplettering	Floors, completions				Etageadskillelser		
-82	82	2	3.33.1	Opbyggede gulve	Builtup floors				Etageadskillelser		
-83	83	2	3.33.2	Svømmende gulve	Floating floors				Etageadskillelser		
-84	84	2	3.33.3	Lemme, riste, måtterammer m.m.	Hatches, grates, mat frames, etc.				Etageadskillelser		
-85	85	2	3.33.4	Sokler til maskiner	Bases for machinery				Etageadskillelser		
-86	86	1	3.34	Trapper og ramper, komplettering	Stairs, completions				Altaner og altangange	Balconies and walkways	
-87	87	2	3.34.1	Gelændere og rækværker, udvendige	Handrails and balustrades, exterior				Altaner og altangange	Balconies and walkways	
-88	88	2	3.34.2	Gelændere og rækværker, indvendige	Handrails and balustrades, interior				Altaner og altangange	Balconies and walkways	
-89	89	2	3.34.3	Riste, måtterammer m.m.	Grates, mat frames etc.				Altaner og altangange	Balconies and walkways	
-90	90	1	3.35	Lofter, komplettering	Suspended ceilings				Etageadskillelser		
-91	91	2	3.35.1	Nedhængte lofter	Suspended ceilings				Etageadskillelser		
-92	92	2	3.35.2	Påbyggede lofter	Surface-mounted ceilings				Etageadskillelser		
-93	93	1	3.36	Altaner	Balconies, completions				Altaner og altangange	Balconies and walkways	
-94	94	2	3.36.1	Rækværker, brystninger	Railings, parapets				Altaner og altangange	Balconies and walkways	
-95	95	1	3.37	Tage, komplettering	Roofs, completions				Tag		
-96	96	2	3.37.1	Kviste m.m.	Dormers, etc. 				Tag		
-97	97	2	3.37.2	Ovenlys og røglemme	Skylights and smoke hatches				Tag		
-98	98	2	3.37.3	Solskærme til ovenlys	Sun screens for skylights				Tag		
-99	99	2	3.37.4	Snefang, rækværker, afskærmninger m.m.	Snow trap, handrails, balustrades, etc.				Tag		
-100	100	2	3.37.5	Inspektionslemme, døre m.m.	Inspection hatches, doors, etc.				Tag		
-101	101	2	3.37.6	Tagudhæng, vindskeder, sternbrædder og inddækninger	Eaves, barge boards, fascia boards and flashings				Tag		
-102	102	1	3.38	Kompletterende bygningsdele bygning, øvrige	Other completions				Øvrige bygningsdele		
-103	103	2	3.38.1	Kompletterende bygningsdele bygning, øvrige	Other completions				Øvrige bygningsdele		
-104	104	0	4	Overfladebygningsdele	Applied finishes						
-105	105	1	4.40	Belægninger, terræn	Roads, paths, pavings				Øvrige bygningsdele		
-106	106	2	4.40.1	Overflader, sekundære bygninger	Secondary buildings, finishes				Øvrige bygningsdele		
-107	107	2	4.40.2	Stier, belægninger	Paths				Øvrige bygningsdele		
-108	108	2	4.40.3	Veje, parkeringsarealer, belægninger	Roads, parkings areas, pavements				Øvrige bygningsdele		
-109	109	2	4.40.4	Opholdsarealer, belægninger	Open spaces, pavements				Øvrige bygningsdele		
-110	110	2	4.40.5	Sports- og havearealer, belægninger	Sports and green areas, pavements				Arealudvidelse		
-111	111	2	4.40.5	Sports- og havearealer, belægninger	Sports and green areas, pavements				Øvrige bygningsdele		
-112	112	2	4.40.6	Trapper og ramper i terræn, overflader	Stairs and ramps in ground, finishes				Øvrige bygningsdele		
-113	113	1	4.41	Udvendige vægoverflader	Applied wall finishes, exterior				Ydervægge	Exterior walls	
-114	114	2	4.41.1	Kælderydervægge, udvendige overflader	Exterior basement walls, exterior surfaces				Fundament og kælder		
-115	115	2	4.41.2	Kælderydervægge, kompletterende del, overflader	Exterior basement walls, completions, surfaces				Fundament og kælder		
-116	116	2	4.41.3	Ydervægge, udvendige overflader	Exterior walls, exterior surfaces				Ydervægge	Exterior walls	
-117	117	2	4.41.4	Ydervægge, kompletterende dele, overflader	Exterior walls, completions, surfaces				Ydervægge	Exterior walls	
-118	118	1	4.42	Indvendige vægoverflader	Applied wall finishes, interior				Øvrige bygningsdele		
-119	119	2	4.42.1	Indvendige vægoverflader	Applied wall finishes, interior				Øvrige bygningsdele		
-120	120	2	4.42.2	Indervægge kompletterende dele, overflader	Interior walls, completions, surfaces				Øvrige bygningsdele		
-121	121	1	4.43	Dæk og gulve, overflader	Applied floor finishes				Etageadskillelser		
-122	122	2	4.43.1	Terrændæk, overflader	Ground slabs, surfaces				Etageadskillelser		
-123	123	2	4.43.2	Etagedæk, overflader	Slabs, surfaces				Etageadskillelser		
-124	124	1	4.44	Trapper og ramper, overflader	Applied stair finishes				Altaner og altangange	Balconies and walkways	
-125	125	2	4.44.1	Kældertrapper og kælderramper, udvendige, overflader	Basement stairs and ramps, exterior, surfaces				Altaner og altangange	Balconies and walkways	
-126	126	2	4.44.2	Trapper, udvendige, overflader	Stairs, exterior, surfaces				Altaner og altangange	Balconies and walkways	
-127	127	2	4.44.3	Trapper, indvendige, overflader	Stairs, interior, surfaces				Altaner og altangange	Balconies and walkways	
-128	128	2	4.44.4	Ramper, udvendige, overflader	Ramps, exterior, surfaces				Altaner og altangange	Balconies and walkways	
-129	129	2	4.44.5	Ramper, indvendige, overflader	Ramps, interior, surfaces				Altaner og altangange	Balconies and walkways	
-130	130	1	4.45	Lofter, overflader	Applied ceiling finishes				Etageadskillelser		
-131	131	2	4.45.1	Lofter, overflader	Applied ceiling finishes				Etageadskillelser		
-132	132	1	4.46	Altaner, overflader	Applied balcony finishes				Altaner og altangange	Balconies and walkways	
-133	133	2	4.46.1	Altaner, oversider, overflader	Balconies and walkways, topside				Altaner og altangange	Balconies and walkways	
-134	134	2	4.46.2	Altaner, undersider, overflader	Balconies and walkways, underside				Etageadskillelser		
-135	135	1	4.47	Tage, overflader	Applied roof finishes				Tag		
-136	136	2	4.47.1	Tage, overflader	Applied roof finishes				Tag		
-137	137	1	4.48	Overflader bygning, øvrige	Other applied finishes (building) 				Øvrige bygningsdele		
-138	138	2	4.48.1	Overflader bygningsdele, øvrige	Other surfaces				Øvrige bygningsdele		
-139	139	0	5	VVS-anlæg	Services (mainly piped, ducted)						
-140	140	1	5.50	VVS-anlæg, terræn	Site services, piped and ducted				Afløb i jord og bygninger		
-141	141	2	5.50.1	Afløb, stikledninger og overfladeafvanding	Sewage pipes, service pipes and drainage				Afløb i jord og bygninger		
-142	142	2	5.50.2	Drænledninger	Drain pipes				Afløb i jord og bygninger		
-143	143	2	5.50.3	Vand, stikledninger, brandhaner, vandposte	Water, service pipes, fire hydrants, water pumps etc.				Afløb i jord og bygninger		
-144	144	2	5.50.4	Naturgas, stikledninger	Natural gas pipes				Afløb i jord og bygninger		
-145	145	2	5.50.5	Fjernvarme, stikledninger	District heating pipes				Afløb i jord og bygninger		
-146	146	2	5.50.6	Tanke for olie og gas	Tanks for oil and gas				Øvrige bygningsdele		
-147	147	2	5.50.6	Tanke for olie og gas	Tanks for oil and gas				Afløb i jord og bygninger		
-148	148	2	5.50.7	Ledninger m.m. for jordvarme	Geothermal energy pipelines				Afløb i jord og bygninger		
-149	149	1	5.51	Affald	Waste disposal systems				Tekniske anlæg		
-150	150	2	5.51.1	Affaldsanlæg	Waste treatment system				Tekniske anlæg		
-151	151	1	5.52	Afløb og sanitet	Drainage systems				Tag		
-152	152	1	5.52	Afløb og sanitet	Drainage systems				Afløb i jord og bygninger		
-153	153	1	5.52	Afløb og sanitet	Drainage systems				Tekniske anlæg		
-154	154	2	5.52.1	Afløb under bygning (til nærmeste brønd eller ledning)	Drain below building (to nearest well or pipe)				Afløb i jord og bygninger		
-155	155	2	5.52.2	Dræn under bygning (omfangsdræn)	Drain below building (perimeter drain)				Afløb i jord og bygninger		
-156	156	2	5.52.3	Faldstammer, afløbsskåle	Soil vent pipes, pans				Tekniske anlæg		
-157	157	2	5.52.4	Tagrender og nedløb	Gutters and rainwater pipes				Tag		
-158	158	2	5.52.5	Forbrugsanlæg (vaske, vaskemaskiner inkl. armaturer for vand)	Utilisation systems (sinks, washing machines, etc. including fixtures for water)				Tekniske anlæg		
-159	159	1	5.53	Vand	Liquid supply systems				Tekniske anlæg		
-160	160	2	5.53.1	Forsyningsanlæg (målere, beholdere m.m.)	Supply systems (meters, tanks, etc.)				Tekniske anlæg		
-161	161	2	5.53.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)				Tekniske anlæg		
-162	162	2	5.53.3	Forbrugsanlæg (diverse aftapning)	Utilisation systems (taps, etc.)				Tekniske anlæg		
-163	163	1	5.54	Luftarter	Gases supply systems				Tekniske anlæg		
-164	164	2	5.54.1	Forsyningsanlæg (kompressorer, målere, beholdere m.m.)	Supply systems (compressors, meters, tanks, etc.)				Tekniske anlæg		
-165	165	2	5.54.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)				Tekniske anlæg		
-166	166	2	5.54.3	Forbrugsanlæg (armaturer, gasradiatorer m.m.)	Utilisation systems (fixtures, gas radiators, etc.)				Tekniske anlæg		
-167	167	1	5.55	Køling	Cooling systems				Tekniske anlæg		
-168	168	2	5.55.1	Forsyningsanlæg (aggregater m.m.)	Supply systems (units, etc.)				Tekniske anlæg		
-169	169	2	5.55.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)				Tekniske anlæg		
-170	170	2	5.55.3	Forbrugsanlæg (fordampere, køleflader, regulering, automatik m.m.)	Utilisation systems (evaporators, cooling surfaces, controls, automatics, etc.)				Tekniske anlæg		
-171	171	1	5.56	Varme	Heating systems				Tekniske anlæg		
-172	172	2	5.56.1	Forsyningsanlæg (kedler, varmevekslere, målere m.m.)	Supply systems (boilers, heaters, thermostats, etc.)				Tekniske anlæg		
-173	173	2	5.56.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)				Tekniske anlæg		
-174	174	2	5.56.3	Forbrugsanlæg (varmeflader, varmeventilatorer, lokal automatik og regulering m.m.)	Utilisation systems (radiators, convectors, local automatics and controls, etc.)				Tekniske anlæg		
-175	175	1	5.57	Ventilationsanlæg	Ventilation and air conditioning systems				Tekniske anlæg		
-176	176	2	5.57.1	Forsyningsanlæg (ventilationscentraler m.m.)	Supply systems (air handling equipment, etc.)				Tekniske anlæg		
-177	177	2	5.57.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)				Tekniske anlæg		
-178	178	2	5.57.3	Forbrugsanlæg (armaturer, emhætter, aftrækshætter m.m.)	Utilisation systems (fixtures, cooker hoods, vent fans, etc.)				Tekniske anlæg		
-179	179	1	5.58	VVS-anlæg, bygning, øvrige	Other services (mainly piped, ducted), building				Tekniske anlæg		
-180	180	2	5.58.1	Sprinkleranlæg	Sprinkler systems				Tekniske anlæg		
-181	181	2	5.58.2	Vandrensningsanlæg	Water treatment systems				Tekniske anlæg		
-182	182	2	5.58.3	Specialanlæg for væsker	Special treatment systems for liquids				Tekniske anlæg		
-183	183	0	6	El- og mekaniske anlæg	Services (mainly electrical)						
-184	184	1	6.60	El- og mekaniske anlæg, terræn	Site services, electrical and mechanical				Tekniske anlæg		
-185	185	2	6.60.1	Stikledninger udenfor bygningen	Service lines outside building				Tekniske anlæg		
-186	186	2	6.60.2	Vej- og pladsbelysningsanlæg	Road and outdoor lighting				Tekniske anlæg		
-187	187	1	6.62	Højspændingsanlæg	Power supply systems				Tekniske anlæg		
-188	188	2	6.62.1	Forsyning	Electrical supply systems				Tekniske anlæg		
-189	189	2	6.62.2	Hovedfordeling	Primary distribution systems				Tekniske anlæg		
-190	190	2	6.62.3	Maskiner og maskinanlæg	Machines and machine systems				Tekniske anlæg		
-191	191	2	6.62.4	El-tekniske anlæg	Electrical installations				Tekniske anlæg		
-192	192	2	6.62.5	Sekundære højspændingsanlæg	Secondary high voltage systems				Tekniske anlæg		
-193	193	1	6.63	Lavspændingsanlæg	Electrical system				Tekniske anlæg		
-194	194	2	6.63.1	Forsyning	Electrical supply systems				Tekniske anlæg		
-195	195	2	6.63.2	Hovedfordeling	Primary distribution systems				Tekniske anlæg		
-196	196	2	6.63.3	Maskiner og maskinanlæg	Machines and machine systems				Tekniske anlæg		
-197	197	2	6.63.4	El-tekniske anlæg	Electrical installations				Tekniske anlæg		
-198	198	2	6.63.5	Belysningsanlæg	Lighting systems				Tekniske anlæg		
-199	199	2	6.63.6	El-varme	Electric heating systems				Tekniske anlæg		
-200	200	2	6.63.7	El-apparater	Electrical appliances				Tekniske anlæg		
-201	201	1	6.64	Elektronik og svagstrøm	Information and communication technology				Tekniske anlæg		
-202	202	2	6.64.1	Kommunikationsanlæg	Communication systems				Tekniske anlæg		
-203	203	2	6.64.2	Dataanlæg	Telephone, radio, tv and computer systems				Tekniske anlæg		
-204	204	2	6.64.3	Informationsanlæg	Information and management systems				Tekniske anlæg		
-205	205	2	6.64.4	Sikringsanlæg	Security and fire detection systems				Tekniske anlæg		
-206	206	2	6.64.5	Proceskontrolanlæg	Process control systems				Tekniske anlæg		
-207	207	1	6.66	Transportanlæg	Transport systems				Tekniske anlæg		
-208	208	2	6.66.1	Elevatorer	Lifts				Tekniske anlæg		
-209	209	2	6.66.2	Rullende trapper	Escalators				Tekniske anlæg		
-210	210	2	6.66.3	Transportbånd	Conveyor belts				Tekniske anlæg		
-211	211	1	6.67	Mekaniske anlæg, øvrige	Other mechanical services				Tekniske anlæg		
-212	212	2	6.67.1	Mekaniske anlæg, øvrige	Other mechanical services				Tekniske anlæg		
-213	213	1	6.68	El-anlæg, øvrige	Other electrical services				Tekniske anlæg		
-214	214	2	6.68.1	El-anlæg, øvrige	Other electrical services				Tekniske anlæg		
-215	215	0	7	Inventar og udstyr	Fittings						
-216	216	1	7.70	Inventar, terræn	Site fittings				Øvrige bygningsdele		
-217	217	2	7.70.1	Tekniske inventarenheder, p-automater m.m.	Technical equipment, parking meters, etc. 				Øvrige bygningsdele		
-218	218	2	7.70.2	Tavler, skilte og skærme	Panels, signs and displays				Øvrige bygningsdele		
-219	219	2	7.70.3	Opbevaring, affaldsstativer, cykelstativer, postkasser m.m.					Øvrige bygningsdele		
-220	220	2	7.70.4	Bordmøbler	Furniture for eating or working				Øvrige bygningsdele		
-221	221	2	7.70.5	Siddemøbler	Furniture for sitting				Øvrige bygningsdele		
-222	222	1	7.71	Teknisk inventar	Technical fittings				Øvrige bygningsdele		
-223	223	2	7.71.1	Automater for mad, drikke, sæbe m.m.					Øvrige bygningsdele		
-224	224	2	7.71.2	Løse lamper	Movable lamps				Øvrige bygningsdele		
-225	225	2	7.71.3	Brandslukningsudstyr	Fire fighting equipment				Øvrige bygningsdele		
-226	226	1	7.72	Tavler, skilte og skærme	Panels, signs and displays				Øvrige bygningsdele		
-227	227	2	7.72.1	Skilte	Signs				Øvrige bygningsdele		
-228	228	2	7.72.2	Spejle	Mirrors				Øvrige bygningsdele		
-229	229	2	7.72.3	AV-udrustning, tavler, projektorskærme	AV equipment, boards, projectors, projector screens				Øvrige bygningsdele		
-230	230	1	7.73	Opbevaringsmøbler	Storage furniture				Øvrige bygningsdele		
-231	231	2	7.73.1	Hylder	Shelves				Øvrige bygningsdele		
-232	232	2	7.73.2	Skabe og skuffemøbler	Cupboards and drawers				Øvrige bygningsdele		
-233	233	2	7.73.3	Køkkenskabe	Kitchen cupboards				Øvrige bygningsdele		
-234	234	2	7.73.4	Toiletskabe	Vanity cupboards				Øvrige bygningsdele		
-235	235	1	7.74	Bordmøbler	Furniture for eating or working				Øvrige bygningsdele		
-236	236	2	7.74.1	Bordplader	Table tops, counter tops				Øvrige bygningsdele		
-237	237	2	7.74.2	Arbejdsborde	Desktops, workbenches				Øvrige bygningsdele		
-238	238	2	7.74.3	Borde til ophold og hvile	Tables for rest and relaxation				Øvrige bygningsdele		
-239	239	1	7.75	Siddemøbler	Furniture for sitting				Øvrige bygningsdele		
-240	240	2	7.75.1	Stole, bænke m.m . til arbejdsbrug	Chairs, benches, etc. for work				Øvrige bygningsdele		
-241	241	2	7.75.2	Stole, bænke, sofaer m.m. til ophold og hvile	Chairs, benches, couches, etc., for rest and relaxation				Øvrige bygningsdele		
-242	242	1	7.76	Liggemøbler	Furniture for sleeping				Øvrige bygningsdele		
-243	243	2	7.76.1	Sengemøbler til alm. boliger	Bed furniture for regular residential				Øvrige bygningsdele		
-244	244	2	7.76.2	Sengemøbler til institutioner m.m.	Bed furniture for institutions, etc.				Øvrige bygningsdele		
-245	245	1	7.77	Boligtekstiler og afskærmning	Textiles and shading				Øvrige bygningsdele		
-246	246	2	7.77.1	Gardiner og forhæng	Curtains				Øvrige bygningsdele		
-247	247	2	7.77.2	Gulvtæpper og måtter	Carpets and mats				Øvrige bygningsdele		
-248	248	2	7.77.3	Persienner	Blinds				Øvrige bygningsdele		
-249	249	2	7.77.4	Skærmvægge	Screens, partition walls				Øvrige bygningsdele		
-250	250	1	7.78	Øvrigt inventar	Other fittings				Øvrige bygningsdele		
-251	251	2	7.78.1	Øvrigt inventar	Other fittings				Øvrige bygningsdele		
-252	252	2	7.78.2	Specialinventar	Special equipment				Øvrige bygningsdele		
+FromLevel	FromCode	FromName_da	FromName_en	FromProperty_PropertyName	ToLevel	ToCode	ToName_da	ToName_en	ToProperty_PropertyName
+0	1	Bygningsbasis	Substructure						
+1	1.10	Bygningsbasis, terræn	Prepared site				Fundament og kælder		
+2	1.10.4	Pælefundamenter og brøndfundamenter	Pile foundations and well foundations				Fundament og kælder		
+2	1.10.5	Fundamenter i terræn	Foundations in terrain				Fundament og kælder		
+1	1.12	Fundamenter, bygning	Foundations				Fundament og kælder		
+2	1.12.1	Liniefundamenter	Strip foundations				Fundament og kælder		
+2	1.12.2	Punktfundamenter	Pad foundations				Fundament og kælder		
+2	1.12.3	Pladefundamenter	Slab foundations				Fundament og kælder		
+2	1.12.4	Fundamenter, fugt- og varmeisolering					Fundament og kælder		
+1	1.13	Terrændæk, bygning	Floor slabs				Fundament og kælder		
+2	1.13.1	Terrændæk, kældre	Floor slabs, basement				Fundament og kælder		
+2	1.13.2	Terrændæk i terrænniveau	Floor slabs, ground level				Fundament og kælder		
+2	1.13.3	Terrændæk, fugt- og varmeisolering	Floor slabs, moisture and thermal insulation				Fundament og kælder		
+1	1.18	Bygningsbasis bygning, øvrige	Other substructures				Fundament og kælder		
+2	1.18.1	Kanaler under terræn	Drains below ground level				Fundament og kælder		
+2	1.18.2	Gruber og sumpe	Pits and sumps				Fundament og kælder		
+0	2	Primære bygningsdele	Structure						
+1	2.20	Primære bygningsdele, terræn	Site structures						
+2	2.20.1	Sekundære bygninger	Secondary buildings				Øvrige bygningsdele		
+2	2.20.2	Hegnsmure	Fence walls				Øvrige bygningsdele		
+2	2.20.3	Støttemure	Retaining walls				Øvrige bygningsdele		
+2	2.20.4	Teknikgange i terræn inkl. rør-broer og tunneller	Engineering ducts including pipe bridges and tunnels				Øvrige bygningsdele		
+2	2.20.5	Fodgængerbroer, viadukter m.m.	Footbridges, viaducts, etc.				Øvrige bygningsdele		
+2	2.20.6	Trapper og ramper i terræn	Stairs and ramps, on site				Øvrige bygningsdele		
+1	2.21	Ydervægge	Exterior walls				Ydervægge	Exterior walls	
+2	2.21.1	Kælderydervægge	Basement walls, exterior				Fundament og kælder		
+2	2.21.2	Lyskasser	Light shafts				Fundament og kælder		
+2	2.21.3	Ydervægge	Exterior walls				Ydervægge	Exterior walls	
+2	2.21.4	Kælderydervægge, fugt- og varmeisolering	Exterior basement walls, moisture and thermal insulation				Fundament og kælder		
+2	2.21.5	Ydervægge, fugt- og varmeisolering	Exterior walls, moisture and thermal insulation				Ydervægge	Exterior walls	
+1	2.22	Indervægge	Interior walls				Øvrige bygningsdele		
+2	2.22.1	Kælderindervægge	Basement walls, interior				Fundament og kælder		
+2	2.22.2	Indervægge ekskl. kælderindervægge	Partition walls, excl. basement partition walls				Øvrige bygningsdele		
+2	2.22.3	Skaktvægge, skorstensvanger, installationsskakte m.m.	Shaft walls, chimney walls, installation shafts, etc.				Tekniske anlæg		
+2	2.22.4	Skakte for elevatorer	Lift shafts				Tekniske anlæg		
+1	2.23	Dæk	Floors				Tag		
+1	2.23	Dæk	Floors				Etageadskillelser		
+2	2.23.1	Kælderdæk og krybekælderdæk	Basement slabs and crawl space slabs				Fundament og kælder		
+2	2.23.2	Etagedæk	Floor slabs				Etageadskillelser		
+2	2.23.3	Tagdæk, særlige dæk under opbyggede tage	Builtup roofs				Tag		
+2	2.23.4	Tagdæk, fugt- og varmeisolering	Roof slabs, moisture and thermal insulation				Tag		
+1	2.24	Trapper og ramper	Stairs				Altaner og altangange	Balconies and walkways	
+2	2.24.1	Kældertrapper, udvendige	Basement stairs, exterior				Fundament og kælder		
+2	2.24.1	Kældertrapper, udvendige	Basement stairs, exterior				Altaner og altangange	Balconies and walkways	
+2	2.24.2	Trapper udvendige	Stairs, exterior				Altaner og altangange	Balconies and walkways	
+2	2.24.3	Trapper indvendige	Stairs, interior				Altaner og altangange	Balconies and walkways	
+2	2.24.4	Ramper udvendige	Ramps, exterior				Altaner og altangange	Balconies and walkways	
+2	2.24.5	Ramper indvendige	Ramps, interior				Altaner og altangange	Balconies and walkways	
+2	2.24.6	Faste stiger	Fixed ladders				Ydervægge	Exterior walls	
+1	2.25	Bærende konstruktioner	Load-bearing structures				Ydervægge	Exterior walls	
+2	2.25.1	Bærende konstruktioner, øvrige (søjler, bjælker, rammer, skaller)	Load-bearing constructions, other (columns, beams, etc.)				Ydervægge	Exterior walls	
+2	2.25.2	Bærende konstruktioner, øvrige, fugt- og varmeisolering	Load-bearing constructions, other, moisture and thermal insulation				Ydervægge	Exterior walls	
+1	2.26	Altaner og altangange	Balconies and walkways				Altaner og altangange	Balconies and walkways	
+2	2.26.1	Altaner og altangange, udkragede	Balconies and walkways, cantilevered				Altaner og altangange	Balconies and walkways	
+2	2.26.2	Altaner og altangange, fritliggende	Balconies and walkways, detached				Altaner og altangange	Balconies and walkways	
+2	2.26.3	Altaner og altangange, påhængte	Balconies and walkways, wall-mounted				Altaner og altangange	Balconies and walkways	
+2	2.26.4	Altaner og altangange, fritstående	Balconies and walkways, free-standing				Altaner og altangange	Balconies and walkways	
+1	2.27	Tage	Roofs				Tag		
+2	2.27.1	Tagværker	Roof truss				Tag		
+2	2.27.2	Baldakiner og overdækninger	Canopies and covers				Tag		
+2	2.27.3	Tage, fugt- og varmeisolering	Roofs, moisture and thermal insulation				Tag		
+1	2.28	Øvrige primære bygningsdele, bygning	Other structures				Øvrige bygningsdele		
+2	2.28.1	Øvrige primære bygningsdele, bygning	Other structures				Øvrige bygningsdele		
+0	3	Kompletterende bygningsdele	Completions						
+1	3.30	Kompletterende bygningsdele, terræn	Site enclosures						
+1	3.30	Kompletterende bygningsdele, terræn	Site enclosures				Øvrige bygningsdele		
+2	3.30.1	Komplettering sekundære bygninger	Secondary buildings, completions				Øvrige bygningsdele		
+2	3.30.3	Komplettering trapper, ramper m.m. i terræn	Stairs and ramps, on site, completions				Øvrige bygningsdele		
+1	3.31	Ydervægge, komplettering	Exterior walls, completions				Døre og vinduer		
+2	3.31.1	Kælderydervægge, kompletterende del (døre, vinduer m.m.)	Basement, exterior walls (doors, windows, etc.)				Fundament og kælder		
+2	3.31.2	Døre, ydervægge	Doors, exterior walls				Døre og vinduer		
+2	3.31.3	Porte, ydervægge	Gates, exterior walls				Døre og vinduer		
+2	3.31.4	Vinduer, ydervægge	Windows, exterior walls				Døre og vinduer		
+2	3.31.5	Solskærme, skodder, gitre m.m.	Sun protection, shutters, lattice, etc.				Døre og vinduer		
+2	3.31.6	Sålbænke, inddækninger m.m.	Window sill, flashings, etc.				Døre og vinduer		
+2	3.31.7	Termoruder og flerlagsruder m.m.	Double-glazing and multi-glazing panes, etc.				Døre og vinduer		
+1	3.32	Indervægge, komplettering	Interior walls, completions				Døre og vinduer		
+2	3.32.1	Døre, indervægge	Doors, interior walls				Døre og vinduer		
+2	3.32.2	Vinduer, indervægge	Windows, interior walls				Døre og vinduer		
+2	3.32.3	Bevægelige indervægge	Moveable partition walls				Øvrige bygningsdele		
+2	3.32.4	Indfatninger, fodpaneler og fendere	Framing, skirting, etc.				Øvrige bygningsdele		
+1	3.33	Dæk, komplettering	Floors, completions				Etageadskillelser		
+2	3.33.1	Opbyggede gulve	Builtup floors				Etageadskillelser		
+2	3.33.2	Svømmende gulve	Floating floors				Etageadskillelser		
+2	3.33.3	Lemme, riste, måtterammer m.m.	Hatches, grates, mat frames, etc.				Etageadskillelser		
+2	3.33.4	Sokler til maskiner	Bases for machinery				Etageadskillelser		
+1	3.34	Trapper og ramper, komplettering	Stairs, completions				Altaner og altangange	Balconies and walkways	
+2	3.34.1	Gelændere og rækværker, udvendige	Handrails and balustrades, exterior				Altaner og altangange	Balconies and walkways	
+2	3.34.2	Gelændere og rækværker, indvendige	Handrails and balustrades, interior				Altaner og altangange	Balconies and walkways	
+2	3.34.3	Riste, måtterammer m.m.	Grates, mat frames etc.				Altaner og altangange	Balconies and walkways	
+1	3.35	Lofter, komplettering	Suspended ceilings				Etageadskillelser		
+2	3.35.1	Nedhængte lofter	Suspended ceilings				Etageadskillelser		
+2	3.35.2	Påbyggede lofter	Surface-mounted ceilings				Etageadskillelser		
+1	3.36	Altaner	Balconies, completions				Altaner og altangange	Balconies and walkways	
+2	3.36.1	Rækværker, brystninger	Railings, parapets				Altaner og altangange	Balconies and walkways	
+1	3.37	Tage, komplettering	Roofs, completions				Tag		
+2	3.37.1	Kviste m.m.	Dormers, etc. 				Tag		
+2	3.37.2	Ovenlys og røglemme	Skylights and smoke hatches				Tag		
+2	3.37.3	Solskærme til ovenlys	Sun screens for skylights				Tag		
+2	3.37.4	Snefang, rækværker, afskærmninger m.m.	Snow trap, handrails, balustrades, etc.				Tag		
+2	3.37.5	Inspektionslemme, døre m.m.	Inspection hatches, doors, etc.				Tag		
+2	3.37.6	Tagudhæng, vindskeder, sternbrædder og inddækninger	Eaves, barge boards, fascia boards and flashings				Tag		
+1	3.38	Kompletterende bygningsdele bygning, øvrige	Other completions				Øvrige bygningsdele		
+2	3.38.1	Kompletterende bygningsdele bygning, øvrige	Other completions				Øvrige bygningsdele		
+0	4	Overfladebygningsdele	Applied finishes						
+1	4.40	Belægninger, terræn	Roads, paths, pavings				Øvrige bygningsdele		
+2	4.40.1	Overflader, sekundære bygninger	Secondary buildings, finishes				Øvrige bygningsdele		
+2	4.40.2	Stier, belægninger	Paths				Øvrige bygningsdele		
+2	4.40.3	Veje, parkeringsarealer, belægninger	Roads, parkings areas, pavements				Øvrige bygningsdele		
+2	4.40.4	Opholdsarealer, belægninger	Open spaces, pavements				Øvrige bygningsdele		
+2	4.40.5	Sports- og havearealer, belægninger	Sports and green areas, pavements				Arealudvidelse		
+2	4.40.5	Sports- og havearealer, belægninger	Sports and green areas, pavements				Øvrige bygningsdele		
+2	4.40.6	Trapper og ramper i terræn, overflader	Stairs and ramps in ground, finishes				Øvrige bygningsdele		
+1	4.41	Udvendige vægoverflader	Applied wall finishes, exterior				Ydervægge	Exterior walls	
+2	4.41.1	Kælderydervægge, udvendige overflader	Exterior basement walls, exterior surfaces				Fundament og kælder		
+2	4.41.2	Kælderydervægge, kompletterende del, overflader	Exterior basement walls, completions, surfaces				Fundament og kælder		
+2	4.41.3	Ydervægge, udvendige overflader	Exterior walls, exterior surfaces				Ydervægge	Exterior walls	
+2	4.41.4	Ydervægge, kompletterende dele, overflader	Exterior walls, completions, surfaces				Ydervægge	Exterior walls	
+1	4.42	Indvendige vægoverflader	Applied wall finishes, interior				Øvrige bygningsdele		
+2	4.42.1	Indvendige vægoverflader	Applied wall finishes, interior				Øvrige bygningsdele		
+2	4.42.2	Indervægge kompletterende dele, overflader	Interior walls, completions, surfaces				Øvrige bygningsdele		
+1	4.43	Dæk og gulve, overflader	Applied floor finishes				Etageadskillelser		
+2	4.43.1	Terrændæk, overflader	Ground slabs, surfaces				Etageadskillelser		
+2	4.43.2	Etagedæk, overflader	Slabs, surfaces				Etageadskillelser		
+1	4.44	Trapper og ramper, overflader	Applied stair finishes				Altaner og altangange	Balconies and walkways	
+2	4.44.1	Kældertrapper og kælderramper, udvendige, overflader	Basement stairs and ramps, exterior, surfaces				Altaner og altangange	Balconies and walkways	
+2	4.44.2	Trapper, udvendige, overflader	Stairs, exterior, surfaces				Altaner og altangange	Balconies and walkways	
+2	4.44.3	Trapper, indvendige, overflader	Stairs, interior, surfaces				Altaner og altangange	Balconies and walkways	
+2	4.44.4	Ramper, udvendige, overflader	Ramps, exterior, surfaces				Altaner og altangange	Balconies and walkways	
+2	4.44.5	Ramper, indvendige, overflader	Ramps, interior, surfaces				Altaner og altangange	Balconies and walkways	
+1	4.45	Lofter, overflader	Applied ceiling finishes				Etageadskillelser		
+2	4.45.1	Lofter, overflader	Applied ceiling finishes				Etageadskillelser		
+1	4.46	Altaner, overflader	Applied balcony finishes				Altaner og altangange	Balconies and walkways	
+2	4.46.1	Altaner, oversider, overflader	Balconies and walkways, topside				Altaner og altangange	Balconies and walkways	
+2	4.46.2	Altaner, undersider, overflader	Balconies and walkways, underside				Etageadskillelser		
+1	4.47	Tage, overflader	Applied roof finishes				Tag		
+2	4.47.1	Tage, overflader	Applied roof finishes				Tag		
+1	4.48	Overflader bygning, øvrige	Other applied finishes (building) 				Øvrige bygningsdele		
+2	4.48.1	Overflader bygningsdele, øvrige	Other surfaces				Øvrige bygningsdele		
+0	5	VVS-anlæg	Services (mainly piped, ducted)						
+1	5.50	VVS-anlæg, terræn	Site services, piped and ducted				Afløb i jord og bygninger		
+2	5.50.1	Afløb, stikledninger og overfladeafvanding	Sewage pipes, service pipes and drainage				Afløb i jord og bygninger		
+2	5.50.2	Drænledninger	Drain pipes				Afløb i jord og bygninger		
+2	5.50.3	Vand, stikledninger, brandhaner, vandposte	Water, service pipes, fire hydrants, water pumps etc.				Afløb i jord og bygninger		
+2	5.50.4	Naturgas, stikledninger	Natural gas pipes				Afløb i jord og bygninger		
+2	5.50.5	Fjernvarme, stikledninger	District heating pipes				Afløb i jord og bygninger		
+2	5.50.6	Tanke for olie og gas	Tanks for oil and gas				Øvrige bygningsdele		
+2	5.50.6	Tanke for olie og gas	Tanks for oil and gas				Afløb i jord og bygninger		
+2	5.50.7	Ledninger m.m. for jordvarme	Geothermal energy pipelines				Afløb i jord og bygninger		
+1	5.51	Affald	Waste disposal systems				Tekniske anlæg		
+2	5.51.1	Affaldsanlæg	Waste treatment system				Tekniske anlæg		
+1	5.52	Afløb og sanitet	Drainage systems				Tag		
+1	5.52	Afløb og sanitet	Drainage systems				Afløb i jord og bygninger		
+1	5.52	Afløb og sanitet	Drainage systems				Tekniske anlæg		
+2	5.52.1	Afløb under bygning (til nærmeste brønd eller ledning)	Drain below building (to nearest well or pipe)				Afløb i jord og bygninger		
+2	5.52.2	Dræn under bygning (omfangsdræn)	Drain below building (perimeter drain)				Afløb i jord og bygninger		
+2	5.52.3	Faldstammer, afløbsskåle	Soil vent pipes, pans				Tekniske anlæg		
+2	5.52.4	Tagrender og nedløb	Gutters and rainwater pipes				Tag		
+2	5.52.5	Forbrugsanlæg (vaske, vaskemaskiner inkl. armaturer for vand)	Utilisation systems (sinks, washing machines, etc. including fixtures for water)				Tekniske anlæg		
+1	5.53	Vand	Liquid supply systems				Tekniske anlæg		
+2	5.53.1	Forsyningsanlæg (målere, beholdere m.m.)	Supply systems (meters, tanks, etc.)				Tekniske anlæg		
+2	5.53.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)				Tekniske anlæg		
+2	5.53.3	Forbrugsanlæg (diverse aftapning)	Utilisation systems (taps, etc.)				Tekniske anlæg		
+1	5.54	Luftarter	Gases supply systems				Tekniske anlæg		
+2	5.54.1	Forsyningsanlæg (kompressorer, målere, beholdere m.m.)	Supply systems (compressors, meters, tanks, etc.)				Tekniske anlæg		
+2	5.54.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)				Tekniske anlæg		
+2	5.54.3	Forbrugsanlæg (armaturer, gasradiatorer m.m.)	Utilisation systems (fixtures, gas radiators, etc.)				Tekniske anlæg		
+1	5.55	Køling	Cooling systems				Tekniske anlæg		
+2	5.55.1	Forsyningsanlæg (aggregater m.m.)	Supply systems (units, etc.)				Tekniske anlæg		
+2	5.55.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)				Tekniske anlæg		
+2	5.55.3	Forbrugsanlæg (fordampere, køleflader, regulering, automatik m.m.)	Utilisation systems (evaporators, cooling surfaces, controls, automatics, etc.)				Tekniske anlæg		
+1	5.56	Varme	Heating systems				Tekniske anlæg		
+2	5.56.1	Forsyningsanlæg (kedler, varmevekslere, målere m.m.)	Supply systems (boilers, heaters, thermostats, etc.)				Tekniske anlæg		
+2	5.56.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)				Tekniske anlæg		
+2	5.56.3	Forbrugsanlæg (varmeflader, varmeventilatorer, lokal automatik og regulering m.m.)	Utilisation systems (radiators, convectors, local automatics and controls, etc.)				Tekniske anlæg		
+1	5.57	Ventilationsanlæg	Ventilation and air conditioning systems				Tekniske anlæg		
+2	5.57.1	Forsyningsanlæg (ventilationscentraler m.m.)	Supply systems (air handling equipment, etc.)				Tekniske anlæg		
+2	5.57.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)				Tekniske anlæg		
+2	5.57.3	Forbrugsanlæg (armaturer, emhætter, aftrækshætter m.m.)	Utilisation systems (fixtures, cooker hoods, vent fans, etc.)				Tekniske anlæg		
+1	5.58	VVS-anlæg, bygning, øvrige	Other services (mainly piped, ducted), building				Tekniske anlæg		
+2	5.58.1	Sprinkleranlæg	Sprinkler systems				Tekniske anlæg		
+2	5.58.2	Vandrensningsanlæg	Water treatment systems				Tekniske anlæg		
+2	5.58.3	Specialanlæg for væsker	Special treatment systems for liquids				Tekniske anlæg		
+0	6	El- og mekaniske anlæg	Services (mainly electrical)						
+1	6.60	El- og mekaniske anlæg, terræn	Site services, electrical and mechanical				Tekniske anlæg		
+2	6.60.1	Stikledninger udenfor bygningen	Service lines outside building				Tekniske anlæg		
+2	6.60.2	Vej- og pladsbelysningsanlæg	Road and outdoor lighting				Tekniske anlæg		
+1	6.62	Højspændingsanlæg	Power supply systems				Tekniske anlæg		
+2	6.62.1	Forsyning	Electrical supply systems				Tekniske anlæg		
+2	6.62.2	Hovedfordeling	Primary distribution systems				Tekniske anlæg		
+2	6.62.3	Maskiner og maskinanlæg	Machines and machine systems				Tekniske anlæg		
+2	6.62.4	El-tekniske anlæg	Electrical installations				Tekniske anlæg		
+2	6.62.5	Sekundære højspændingsanlæg	Secondary high voltage systems				Tekniske anlæg		
+1	6.63	Lavspændingsanlæg	Electrical system				Tekniske anlæg		
+2	6.63.1	Forsyning	Electrical supply systems				Tekniske anlæg		
+2	6.63.2	Hovedfordeling	Primary distribution systems				Tekniske anlæg		
+2	6.63.3	Maskiner og maskinanlæg	Machines and machine systems				Tekniske anlæg		
+2	6.63.4	El-tekniske anlæg	Electrical installations				Tekniske anlæg		
+2	6.63.5	Belysningsanlæg	Lighting systems				Tekniske anlæg		
+2	6.63.6	El-varme	Electric heating systems				Tekniske anlæg		
+2	6.63.7	El-apparater	Electrical appliances				Tekniske anlæg		
+1	6.64	Elektronik og svagstrøm	Information and communication technology				Tekniske anlæg		
+2	6.64.1	Kommunikationsanlæg	Communication systems				Tekniske anlæg		
+2	6.64.2	Dataanlæg	Telephone, radio, tv and computer systems				Tekniske anlæg		
+2	6.64.3	Informationsanlæg	Information and management systems				Tekniske anlæg		
+2	6.64.4	Sikringsanlæg	Security and fire detection systems				Tekniske anlæg		
+2	6.64.5	Proceskontrolanlæg	Process control systems				Tekniske anlæg		
+1	6.66	Transportanlæg	Transport systems				Tekniske anlæg		
+2	6.66.1	Elevatorer	Lifts				Tekniske anlæg		
+2	6.66.2	Rullende trapper	Escalators				Tekniske anlæg		
+2	6.66.3	Transportbånd	Conveyor belts				Tekniske anlæg		
+1	6.67	Mekaniske anlæg, øvrige	Other mechanical services				Tekniske anlæg		
+2	6.67.1	Mekaniske anlæg, øvrige	Other mechanical services				Tekniske anlæg		
+1	6.68	El-anlæg, øvrige	Other electrical services				Tekniske anlæg		
+2	6.68.1	El-anlæg, øvrige	Other electrical services				Tekniske anlæg		
+0	7	Inventar og udstyr	Fittings						
+1	7.70	Inventar, terræn	Site fittings				Øvrige bygningsdele		
+2	7.70.1	Tekniske inventarenheder, p-automater m.m.	Technical equipment, parking meters, etc. 				Øvrige bygningsdele		
+2	7.70.2	Tavler, skilte og skærme	Panels, signs and displays				Øvrige bygningsdele		
+2	7.70.3	Opbevaring, affaldsstativer, cykelstativer, postkasser m.m.					Øvrige bygningsdele		
+2	7.70.4	Bordmøbler	Furniture for eating or working				Øvrige bygningsdele		
+2	7.70.5	Siddemøbler	Furniture for sitting				Øvrige bygningsdele		
+1	7.71	Teknisk inventar	Technical fittings				Øvrige bygningsdele		
+2	7.71.1	Automater for mad, drikke, sæbe m.m.					Øvrige bygningsdele		
+2	7.71.2	Løse lamper	Movable lamps				Øvrige bygningsdele		
+2	7.71.3	Brandslukningsudstyr	Fire fighting equipment				Øvrige bygningsdele		
+1	7.72	Tavler, skilte og skærme	Panels, signs and displays				Øvrige bygningsdele		
+2	7.72.1	Skilte	Signs				Øvrige bygningsdele		
+2	7.72.2	Spejle	Mirrors				Øvrige bygningsdele		
+2	7.72.3	AV-udrustning, tavler, projektorskærme	AV equipment, boards, projectors, projector screens				Øvrige bygningsdele		
+1	7.73	Opbevaringsmøbler	Storage furniture				Øvrige bygningsdele		
+2	7.73.1	Hylder	Shelves				Øvrige bygningsdele		
+2	7.73.2	Skabe og skuffemøbler	Cupboards and drawers				Øvrige bygningsdele		
+2	7.73.3	Køkkenskabe	Kitchen cupboards				Øvrige bygningsdele		
+2	7.73.4	Toiletskabe	Vanity cupboards				Øvrige bygningsdele		
+1	7.74	Bordmøbler	Furniture for eating or working				Øvrige bygningsdele		
+2	7.74.1	Bordplader	Table tops, counter tops				Øvrige bygningsdele		
+2	7.74.2	Arbejdsborde	Desktops, workbenches				Øvrige bygningsdele		
+2	7.74.3	Borde til ophold og hvile	Tables for rest and relaxation				Øvrige bygningsdele		
+1	7.75	Siddemøbler	Furniture for sitting				Øvrige bygningsdele		
+2	7.75.1	Stole, bænke m.m . til arbejdsbrug	Chairs, benches, etc. for work				Øvrige bygningsdele		
+2	7.75.2	Stole, bænke, sofaer m.m. til ophold og hvile	Chairs, benches, couches, etc., for rest and relaxation				Øvrige bygningsdele		
+1	7.76	Liggemøbler	Furniture for sleeping				Øvrige bygningsdele		
+2	7.76.1	Sengemøbler til alm. boliger	Bed furniture for regular residential				Øvrige bygningsdele		
+2	7.76.2	Sengemøbler til institutioner m.m.	Bed furniture for institutions, etc.				Øvrige bygningsdele		
+1	7.77	Boligtekstiler og afskærmning	Textiles and shading				Øvrige bygningsdele		
+2	7.77.1	Gardiner og forhæng	Curtains				Øvrige bygningsdele		
+2	7.77.2	Gulvtæpper og måtter	Carpets and mats				Øvrige bygningsdele		
+2	7.77.3	Persienner	Blinds				Øvrige bygningsdele		
+2	7.77.4	Skærmvægge	Screens, partition walls				Øvrige bygningsdele		
+1	7.78	Øvrigt inventar	Other fittings				Øvrige bygningsdele		
+2	7.78.1	Øvrigt inventar	Other fittings				Øvrige bygningsdele		
+2	7.78.2	Specialinventar	Special equipment				Øvrige bygningsdele		
