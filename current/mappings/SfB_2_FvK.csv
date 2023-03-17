@@ -1,5 +1,5 @@
 FromLevel;FromCode;FromName_da;FromName_en;FromProperty_PropertyName;ToLevel;ToCode;ToName_da;ToName_en;ToProperty_PropertyName
-0;SfB1;BYGNINGSBASIS;;;;;;;
+0;SfB1;BYGNINGSBASIS;Substructure;;;;;;
 1;SfB10;Bygningsbasis, terræn;Prepared site;;;;;;
 2;Sfb10.1;Forberedt grund;;;;;;;
 2;SfB10.2;Byggegrube, inkl. afstivning;;;;;;;
@@ -17,7 +17,7 @@ FromLevel;FromCode;FromName_da;FromName_en;FromProperty_PropertyName;ToLevel;ToC
 1;SfB18;Bygningsbasis bygning, øvrige;Other substructures;;;;;;
 2;SfB18.1;Kanaler under terrændæk;;;;bk.kan;Kanaler, ingeniørgange;;
 2;SfB18.2;Gruber og sumpe;Pits and sumps;;;;;;
-0;SfB2;PRIMÆRE BYGNINGSDELE;;;;;;;
+0;SfB2;PRIMÆRE BYGNINGSDELE;Structure;;;;;;
 1;SfB20;Primære bygningsdele, terræn;Site structures;;;;;;
 2;SfB20.1;Sekundære bygninger (under 10 m2);;;;ti.sby;Småbygninger;;
 2;SfB20.2;Hegnsmure;Fence walls;;;tk.heg;Hegn;;
@@ -131,7 +131,7 @@ som bygning   (x";;
 2;SfB47.1;Tage, overflader;Applied roof finishes;;;bk.tad;Tagdækning;;
 2;SfB47.2;Baldakiner og overdækninger, overflader;;;;bk.tad;Tagdækning;;
 1;SfB48;Øvrige overflader, bygning;;;;;;;
-0;SfB5;VVS-ANLÆG;;;;;;;
+0;SfB5;VVS-ANLÆG;Services (mainly piped, ducted);;;;;;
 1;SfB50;VVS, terræn;;;;;;;
 2;SfB50.1;Afløb, stikledninger og overfl. afvanding;;;;tt.afl.led;Afløb, ledning;;
 2;SfB50.2;Drænledninger;Drain pipes;;;tt.afl.dræ;Afløb, drænledning;;
@@ -187,7 +187,7 @@ tilatorer, lokal automatik og regulering m.m.)";;;;bt.var.for;Varme, forbrugsanl
 2;SfB58.2;Vandrensningsanlæg;Water treatment systems;;;bt.van.beh;Vandbehandlingsanlæg;;
 2;SfB58.3;Specialanlæg for væsker;Special treatment systems for liquids;;;;;;
 2;SfB58.4;Automatik;;;;bt.aut.sam;Automationssystem;;
-0;SfB6;EL- OG MEKANISKE ANLÆG;;;;;;;
+0;SfB6;EL- OG MEKANISKE ANLÆG;Services (mainly electrical);;;;;;
 1;SfB60;El- og mekaniske anlæg, terræn;Site services, electrical and mechanical;;;tt.elf.sam;Elforsyningsanlæg (samlet);;
 2;SfB60.1;Stikledninger uden for bygningen;;;;tt.elf.sti;Elforsyning, stikledning;;
 2;SfB60.2;Vej- og pladsbelysningsanlæg;Road and outdoor lighting;;;tt.bly.sam;Vej- og pladsbelysningsanlæg;Road and outdoor lighting;
