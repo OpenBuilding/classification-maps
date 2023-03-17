@@ -57,8 +57,7 @@ FromLevel;FromCode;FromName_da;FromName_en;FromProperty_PropertyName;ToLevel;ToC
 2;SfB28.1;Andet;;;;;;;
 0;SfB3;KOMPLETTERING;;;;;;;
 1;SfB30;Kompletterende bygningsdele, terræn;Site enclosures;;;;;;
-2;SfB30.1;Komplettering sekundære bygninger;Secondary buildings, completions;;;ti.sby;"Småbygninger   ikke registreret
-som bygning   (x";;
+2;SfB30.1;Komplettering sekundære bygninger;Secondary buildings, completions;;;ti.sby;Småbygninger ikke registreret som bygning (x);;
 2;SfB30.2;Hegn;;;;tk.heg;Hegn;;
 2;SfB30.3;Komplettering trapper ramper i terræn;;;;tk.tra;Trapper og rampe;;
 1;SfB31;Ydervægge komplettering;;;;;;;
@@ -160,8 +159,7 @@ som bygning   (x";;
 2;SfB53.4;Korrosionsbeskyttelse;;;;bt.van.sam;Vandsystem;;
 2;SfB53.5;Automatik;;;;bt.aut.sam;Automationssystem (samlet);;
 1;SfB54;Luftarter;Gases supply systems;;;bt.gas.sam;Gas og luft;;
-2;SfB54.1;"Forsyningsanlæg (kompressorer, behol-
-dere, målere, pneumatisk styring m.m.)";;;;bt.gas.sam;Gas og luft;;
+2;SfB54.1;Forsyningsanlæg (kompressorer, beholdere, målere, pneumatisk styring m.m.);;;;bt.gas.sam;Gas og luft;;
 2;SfB54.2;Distributionsanlæg (rør, ventiler m.v.);;;;bt.gas.sam;Gas og luft;;
 2;SfB54.3;Forbr. anlæg (armaturer, gasradiatorer);;;;bt.gas.sam;Gas og luft;;
 2;SfB54.4;Automatik;;;;bt.gas.sam;Gas og luft;;
@@ -171,10 +169,9 @@ dere, målere, pneumatisk styring m.m.)";;;;bt.gas.sam;Gas og luft;;
 2;SfB55.3;Forbrugsanlæg (fordampere, køleflader, regulering, automatik m.m.);Utilisation systems (evaporators, cooling surfaces, controls, automatics, etc.);;;bt.køl.for;Forbrugsanlæg;;
 2;SfB55.4;El-installationer og automatik;;;;bt.køl.sam;Køleanlæg;;
 1;SfB56;Varme;Heating systems;;;bt.var.sam;Varmeanlæg (samlet);;
-2;SfB56.1;"Forsyningsanlæg (kedler, varmevekslere, målere m.m.)";;;;bt.var.pro;Varmeproduktionsanlæg;;
+2;SfB56.1;Forsyningsanlæg (kedler, varmevekslere, målere m.m.);Supply systems (boilers, heaters, thermostats, etc.);;;bt.var.pro;Varmeproduktionsanlæg;;
 2;SfB56.2;Distributionsanlæg (rør, ventiler m.m.);Distribution systems (ducts, vents, etc.);;;bt.var.rør;Røranlæg;;
-2;SfB56.3;"Forbrugsanlæg (varmeflader, varmeven-
-tilatorer, lokal automatik og regulering m.m.)";;;;bt.var.for;Varme, forbrugsanlæg;;
+2;SfB56.3;Forbrugsanlæg (varmeflader, varmeventilatorer, lokal automatik og regulering m.m.);Utilisation systems (radiators, convectors, local automatics and controls, etc.);;;bt.var.for;Varme, forbrugsanlæg;;
 2;SfB56.4;Automatik;;;;bt.var.pro;Varmeproduktionsanlæg;;
 1;SfB57;Ventilation;;;;bt.ven.sam;Ventilationsanlæg (samlet);;
 2;SfB57.1;Forsyningsanlæg (ventilationscentraler m.m.);Supply systems (air handling equipment, etc.);;;bt.ven.agg;Aggregat;;
@@ -222,14 +219,9 @@ tilatorer, lokal automatik og regulering m.m.)";;;;bt.var.for;Varme, forbrugsanl
 1;SfB68;El-anlæg, bygning, øvrige;;;;;;;
 0;SfB7;INVENTAR;;;;;;;
 1;SfB70;Inventar, terræn;Site fittings;;;ti;Inventar, terræn;Site fittings;
-2;SfB70.1;"Tekniske inventarenheder,
-P-automater m.v.";;;;ti.tei;"Teknisk inventar, P-automater
-m.v.";;
-2;SfB70.2;Tavler, skilte, skærme;;;;ti.tav;"Tavler, skilte, skærme, riste,
-postkasser og cykelstativer";;
-2;SfB70.3;"Opbev., affalds- og cykelstativer, post-
-kasser";;;;ti.aff;"Affaldscontainer, -beholder og
--stativ";;
+2;SfB70.1;Tekniske inventarenheder, P-automater m.v.;;;;ti.tei;Teknisk inventar, P-automater m.v.;;
+2;SfB70.2;Tavler, skilte, skærme;;;;ti.tav;Tavler, skilte, skærme, riste, postkasser og cykelstativer;;
+2;SfB70.3;Opbev., affalds- og cykelstativer, postkasser;;;;ti.aff;Affaldscontainer, -beholder og -stativ;;
 2;SfB70.4;Bordmøbler;Furniture for eating or working;;;ti.bor;Borde og bænke;;
 2;SfB70.5;Siddemøbler;Furniture for sitting;;;ti.bor;Borde og bænke;;
 1;SfB71;Tekniske inventarenheder;;;;bi;Inventar;;
@@ -252,8 +244,7 @@ kasser";;;;ti.aff;"Affaldscontainer, -beholder og
 2;SfB74.3;Borde til ophold og hvile;Tables for rest and relaxation;;;bi.møb;Møbler;;
 1;SfB75;Siddemøbler;Furniture for sitting;;;bi.møb;Møbler;;
 2;SfB75.1;Stole, bænke m.m. til arbejdsbrug;;;;bi.møb;Møbler;;
-2;SfB75.2;"Stole, bænke, sofaer m.m. til ophold og
-hvile";;;;bi.møb;Møbler;;
+2;SfB75.2;Stole, bænke, sofaer m.m. til ophold og hvile;Chairs, benches, couches, etc., for rest and relaxation;;;bi.møb;Møbler;;
 1;SfB76;Liggemøbler;Furniture for sleeping;;;bi.møb;Møbler;;
 2;SfB76.1;Sengemøbler til alm. boliger;Bed furniture for regular residential;;;bi.møb;Møbler;;
 2;SfB76.2;Sengemøbler til institutioner m.m.;Bed furniture for institutions, etc.;;;bi.møb;Møbler;;
