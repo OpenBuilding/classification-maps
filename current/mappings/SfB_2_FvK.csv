@@ -171,8 +171,7 @@ dere, målere, pneumatisk styring m.m.)";;;;bt.gas.sam;Gas og luft;;
 2;SfB55.3;Forbrugsanlæg (fordampere, køleflader, regulering, automatik m.m.);Utilisation systems (evaporators, cooling surfaces, controls, automatics, etc.);;;bt.køl.for;Forbrugsanlæg;;
 2;SfB55.4;El-installationer og automatik;;;;bt.køl.sam;Køleanlæg;;
 1;SfB56;Varme;Heating systems;;;bt.var.sam;Varmeanlæg (samlet);;
-2;SfB56.1;"Forsyningsanlæg (kedler, varmevekslere,
-målere m.m.)";;;;bt.var.pro;Varmeproduktionsanlæg;;
+2;SfB56.1;"Forsyningsanlæg (kedler, varmevekslere, målere m.m.)";;;;bt.var.pro;Varmeproduktionsanlæg;;
 2;SfB56.2;Distributionsanlæg (rør, ventiler m.m.);Distribution systems (ducts, vents, etc.);;;bt.var.rør;Røranlæg;;
 2;SfB56.3;"Forbrugsanlæg (varmeflader, varmeven-
 tilatorer, lokal automatik og regulering m.m.)";;;;bt.var.for;Varme, forbrugsanlæg;;
