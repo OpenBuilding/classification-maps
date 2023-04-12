@@ -1,1 +1,23 @@
 FromLevel;FromCode;FromName_da;FromName_en;FromProperty_PropertyName;ToLevel;ToCode;ToName_da;ToName_en;ToProperty_PropertyName
+0;0;Generiske objekter;;;;;;;
+1;01;Generiske objekter ARK;;;;;;;
+2;011;FRI;;;;;;;
+1;02;Generiske objekter KON;;;;;;;
+2;021;FRI;;;;;;;
+1;03;Generiske objekter VENT;;;;;;;
+2;031;FRI;;;;;;;
+1;04;Generiske objekter VVS;;;;;;;
+2;041;FRI;;;;;;;
+1;05;Generiske objekter EL;;;;;;;
+2;051;FRI;;;;;;;
+1;06;Generiske objekter LAND;;;;;;;
+2;061;FRI;;;;;;;
+1;07;Generiske objekter Entreprenør/Leverandør;;;;;;;
+2;071;FRI;;;;;;;
+1;09;Generiske objekter, øvrigt;;;;;;;
+2;091;FRI;;;;;;;
+0;1;Bygningsbasis;Substructure;;;;;;
+1;10;Terræn;;;;;;;
+2;101;Forberedt grund;;;;;;;
+2;102;Byggegrube inkl. afstivning;;;;;;;
+2;103;Spunsvægge;;;;;;;
