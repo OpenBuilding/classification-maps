@@ -1,0 +1,263 @@
+FromLevel	FromCode	FromName_da	FromName_en	FromProperty_PropertyName	ToLevel	ToCode	ToName_da	ToName_en	ToProperty_PropertyName
+0	1.1	BYGNINGSBASIS	Substructure						
+1	1.10	Bygningsbasis, terræn	Prepared site						
+2	1.10.1	Forberedt grund							
+2	1.10.2	Byggegrube, inkl. afstivning							
+2	1.10.3	Spunsvægge				bk.væg			
+2	1.10.4	Pæle- og brøndfundamenter				bk.fun			
+2	1.10.5	Fundamenter i terræn	Foundations in terrain						
+1	1.12	Fundamenter, bygning	Foundations			bk.fun	Fundament		
+2	1.12.1	Linjefundamenter				bk.fun	Fundament		
+2	1.12.2	Punktfundamenter	Pad foundations			bk.fun	Fundament		
+2	1.12.3	Pladefundamenter	Slab foundations			bk.fun	Fundament		
+2	1.12.4	Maskinfundamenter				bk.fun	Fundament		
+1	1.13	Terrændæk, bygning	Floor slabs			bk.dæk	Dækkonstruktion		
+2	1.13.1	Terrændæk, kældre	Floor slabs, basement			bk.dæk	Dækkonstruktion		
+2	1.13.2	Terrændæk i terrænniveau	Floor slabs, ground level			bk.dæk	Dækkonstruktion		
+1	1.18	Bygningsbasis bygning, øvrige	Other substructures						
+2	1.18.1	Kanaler under terrændæk				bk.kan	Kanaler, ingeniørgange		
+2	1.18.2	Gruber og sumpe	Pits and sumps						
+0	2.2	PRIMÆRE BYGNINGSDELE	Structure						
+1	2.20	Primære bygningsdele, terræn	Site structures						
+2	2.20.1	Sekundære bygninger (under 10 m2)				ti.sby	Småbygninger		
+2	2.20.2	Hegnsmure	Fence walls			tk.heg	Hegn		
+2	2.20.3	Støttemure	Retaining walls			tk.væg	Væg		
+2	2.20.4	Teknikgange i terræn				tk.tek	Teknikgang		
+2	2.20.5	Fodgængerbroer, viadukter m.m.	Footbridges, viaducts, etc.			tk.bro	Bro		
+2	2.20.6	Trapper og ramper i terræn	Stairs and ramps, on site			tk.tra	Trappe og rampe		
+1	2.21	Ydervægge	Exterior walls			bk.væg	Væg		
+2	2.21.1	Kælderydervægge	Basement walls, exterior			bk.væg	Væg		
+2	2.21.2	Lyskasser	Light shafts			bk.lys	Lyskasse		
+2	2.21.3	Ydervægge, ekskl. kælderydervægge				bk.væg	Væg		
+1	2.22	Indervægge	Interior walls			bk.væg	Væg		
+2	2.22.1	Kælderindervægge	Basement walls, interior			bk.væg	Væg		
+2	2.22.2	Indervægge, ekskl. kælderindervægge				bk.væg	Væg		
+2	2.22.3	Skaktvægge, skorstensv., install. skakte				bk.væg	Væg		
+2	2.22.4	Skakte for elevatorer	Lift shafts			bk.væg	Væg		
+1	2.23	Dæk	Floors			bk.dæk	Dækkonstruktion		
+2	2.23.1	Kælderdæk og krybekælderdæk	Basement slabs and crawl space slabs			bk.dæk	Dækkonstruktion		
+2	2.23.2	Etagedæk	Floor slabs			dk.dæk	Dækkonstruktion		
+2	2.23.3	Tagdæk. Særlige dæk under opbyg. tage				bk.dæk	Dækkonstruktion		
+1	2.24	Trapper og ramper	Stairs			bk.tra	Trappe		
+2	2.24.1	Kældertrapper, udvendige	Basement stairs, exterior			bk.tra	Trappe		
+2	2.24.2	Trapper, udvendige				bk.tra	Trappe		
+2	2.24.3	Trapper, indvendige				bk.tra	Trappe		
+2	2.24.4	Ramper, udvendige				bk.ram	Rampe		
+2	2.24.5	Ramper, indvendige				bk.ram	Rampe		
+2	2.24.6	Faste stiger	Fixed ladders			bk.tra	Trappe		
+1	2.26	Altaner	Balconies, completions			bk.alt	Altan		
+2	2.26.1	Altaner og altangange, udkragede	Balconies and walkways, cantilevered			bk.alt	Altan		
+2	2.26.2	Altaner og altangange, fritliggende	Balconies and walkways, detached			bk.alt	Altan		
+2	2.26.3	Altaner og altangange, påhængte	Balconies and walkways, wall-mounted			bk.alt	Altan		
+2	2.26.4	Altaner og altangange, fritstående	Balconies and walkways, free-standing			bk.alt	Altan		
+1	2.27	Tage	Roofs			bk.tak	Tagkonstruktion		
+2	2.27.1	Tagværker	Roof truss			bk.tak	Tagkonstruktion		
+2	2.27.2	Baldakiner og overdækninger	Canopies and covers			bk.tak	Tagkonstruktion		
+1	2.28	Primære bygn.dele bygning, øvrige							
+2	2.28.1	Andet							
+0	3.3	KOMPLETTERING							
+1	3.30	Kompletterende bygningsdele, terræn	Site enclosures						
+2	3.30.1	Komplettering sekundære bygninger	Secondary buildings, completions			ti.sby	Småbygninger ikke registreret som bygning (x)		
+2	3.30.2	Hegn				tk.heg	Hegn		
+2	3.30.3	Komplettering trapper ramper i terræn				tk.tra	Trapper og rampe		
+1	3.31	Ydervægge komplettering							
+2	3.31.1	Kælderydervægge, døre, vinduer m.m.				bk.dør	Dør		
+2	3.31.2	Døre, ydervægge	Doors, exterior walls			bk.dør	Dør		
+2	3.31.3	Porte, ydervægge	Gates, exterior walls			bk.por	Porte		
+2	3.31.4	Vinduer, ydervægge	Windows, exterior walls			bk.vin	Vindue		
+2	3.31.5	Solskærme, skodder, gitre m.m.	Sun protection, shutters, lattice, etc.			bk.vin	Vindue		
+2	3.31.6	Sålbænke, inddækninger m.m.	Window sill, flashings, etc.			bk.dør	Dør		
+2	3.31.7	Facadeelementer, komplettering				bk.væg	Væg		
+1	3.32	Indervægge, komplettering	Interior walls, completions						
+2	3.32.1	Døre, indervægge	Doors, interior walls			bk.dør	Dør		
+2	3.32.2	Luger, lemme, og vinduer				bk.lug	Luger og lemme		
+2	3.32.3	Bevægelige indervægge	Moveable partition walls			bk.væg	Væg		
+2	3.32.4	Indfatninger, fodpaneler, fendere				bk.dør	Dør		
+2	3.32.5	Porte, indervægge				bk.por	Porte		
+1	3.33	Dæk, komplettering	Floors, completions						
+2	3.33.1	Opbyggede gulve	Builtup floors			bk.gul	Gulv		
+2	3.33.2	Svømmende gulve	Floating floors			bk.gul	Gulv		
+2	3.33.3	Lemme, riste, måtterammer m.m.	Hatches, grates, mat frames, etc.			bk.gul	Gulv		
+2	3.33.4	Sokler til maskiner m.m.				bk.fun	Fundament		
+1	3.34	Trapper og ramper, komplettering	Stairs, completions						
+2	3.34.1	Gelændere og rækværker, udvendige	Handrails and balustrades, exterior			bk.tra	Trappe		
+2	3.34.2	Gelændere og rækværker, indvendige	Handrails and balustrades, interior			bk.tra	Trappe		
+2	3.34.3	Riste, måtterammer m.m.	Grates, mat frames etc.			bk.tra	Trappe		
+1	3.35	Lofter, komplettering	Suspended ceilings						
+2	3.35.1	Nedhængte lofter	Suspended ceilings			bk.lof	Loft		
+2	3.35.2	Påbyggede lofter	Surface-mounted ceilings			bk.lof	Loft		
+1	3.36	Altaner, komplettering							
+2	3.36.1	Rækværker, brystninger	Railings, parapets			bk.alt	Altan		
+1	3.37	Tage, komplettering	Roofs, completions						
+2	3.37.1	Kviste m.m.	Dormers, etc. 			bk.kvi	Kvist		
+2	3.37.2	Ovenlys og røglemme	Skylights and smoke hatches			bk.lug	Luger og lemme		
+2	3.37.3	Solskærme til ovenlys	Sun screens for skylights			bk.vin	Vindue		
+2	3.37.4	Snefang, rækværker, afskærmninger				bk.tad	Tagdækning		
+2	3.37.5	Inspektionslemme, døre m.m.	Inspection hatches, doors, etc.			bk.dør	Dør		
+2	3.37.6	Tagudh., v.skeder., sternbr., inddækn.				bk.tad	Tagdækning		
+1	3.38	Kompletterende bygningsdele bygning, øvrige	Other completions						
+0	4.4	OVERFLADER				bk.ovf	Overflader		
+1	4.40	Belægninger, terræn	Roads, paths, pavings						
+2	4.40.1	Overflader, sekundære bygninger	Secondary buildings, finishes			ti.sby	Småbygninger		
+2	4.40.2	Stier, belægninger	Paths			tk.bel	Belægninger		
+2	4.40.3	Veje, parkeringsarealer, belægninger	Roads, parkings areas, pavements			tk.bel	Belægninger		
+2	4.40.4	Opholdsarealer, belægninger	Open spaces, pavements			tk.bel	Belægninger		
+2	4.40.5	Sports- og havearealer, belægninger	Sports and green areas, pavements			tk.bel	Belægninger		
+2	4.40.6	Trapper og ramper i terræn, overflader	Stairs and ramps in ground, finishes			tk.tra	Trapper og ramper	Stairs	
+2	4.40.7	Arealer for beplantning							
+1	4.41	Udvendige vægoverflader	Applied wall finishes, exterior						
+2	4.41.1	Kælderydervægge, udv. overflader				bk.ovf	Overflade		
+2	4.41.2	Kælderydervægge, kompl. , overflader				bk.ovf	Overflade		
+2	4.41.3	Ydervægge, udvendige overflader	Exterior walls, exterior surfaces			bk.ovf	Overflade		
+2	4.41.4	Ydervægge, komplett. dele, overflader				bk.ovf	Overflade		
+1	4.42	Indvendige vægoverflader	Applied wall finishes, interior						
+2	4.42.1	Indvendige vægoverflader	Applied wall finishes, interior			bk.ovf	Overflade		
+2	4.42.2	Indervægge, komplet. dele, overflader				bk.ovf	Overflade		
+1	4.43	Dæk og gulve, overflader	Applied floor finishes						
+2	4.43.1	Terrændæk, overflader	Ground slabs, surfaces			bk.dæk	Dækkonstruktion		
+2	4.43.2	Etagedæk, overflader	Slabs, surfaces			bk.dæk	Dækkonstruktion		
+1	4.44	Trapper og ramper, overflader	Applied stair finishes						
+2	4.44.1	Kældertrapper og -ramper, udv. overfl.				bk.ovf	Overflade		
+2	4.44.2	Trapper, udvendige overflader				bk.ovf	Overflade		
+2	4.44.3	Trapper, indvendige overflader				bk.ovf	Overflade		
+2	4.44.4	Ramper, udvendige overflader				bk.ovf	Overflade		
+2	4.44.5	Ramper, indvendige overflader				bk.ovf	Overflade		
+1	4.45	Lofter, overflader	Applied ceiling finishes			bk.lof	Loft		
+1	4.46	Altaner, overflader	Applied balcony finishes						
+2	4.46.1	Altaner, overflader	Applied balcony finishes			bk.alt	Altan		
+2	4.46.2	Altangange, overflader				bk.alg	Altangang		
+1	4.47	Tage, overflader	Applied roof finishes						
+2	4.47.1	Tage, overflader	Applied roof finishes			bk.tad	Tagdækning		
+2	4.47.2	Baldakiner og overdækninger, overflader				bk.tad	Tagdækning		
+1	4.48	Øvrige overflader, bygning							
+0	5.5	VVS-ANLÆG	Services (mainly piped, ducted)						
+1	5.50	VVS, terræn							
+2	5.50.1	Afløb, stikledninger og overfl. afvanding				tt.afl.led	Afløb, ledning		
+2	5.50.2	Drænledninger	Drain pipes			tt.afl.dræ	Afløb, drænledning		
+2	5.50.3	Vand, stikledn., brandh., vandposte				tt.van.led	Vand, ledning		
+2	5.50.4	Gas, stikledninger				tt.gas.sti	Gas, stikledning		
+2	5.50.5	Fjernvarme, stikledninger	District heating pipes			tt.var.sti	Varme, stikledning		
+2	5.50.6	Tanke for olie og gas	Tanks for oil and gas			tt.gas.tan	Tanke, gas		
+2	5.50.7	Automatik				tt.aut.sam	Automationssystem		
+2	5.50.8	Beholdere og containere til affald				ti.aff	Affaldscontainer, -beholder		
+1	5.51	Affald i bygning							
+2	5.51.1	Beholdere dagrenovation				bi.aff	Affaldscontainer, -beholder		
+2	5.51.2	Skraldsugeanlæg				bt.aff.sam	Affaldssystem		
+2	5.51.3	Beholdere og containere, køkkenaffald				bi.aff	Affaldscontainer, -beholder		
+2	5.51.4	Beholdere og containere, øvrige				bi.aff	Affaldscontainer, -beholder		
+1	5.52	Afløb og sanitet	Drainage systems						
+2	5.52.1	Afløb under bygning (til brønd eller ledn.)				tt.afl.sam	Afløbssystem		
+2	5.52.2	Dræn under bygning (omfangsdræn)	Drain below building (perimeter drain)			tt.afl.dræ	Drænledning		
+2	5.52.3	Faldstammer, afløbsskåle	Soil vent pipes, pans			bt.afl.ops	Afløb, opsamling		
+2	5.52.4	Tagafvanding (tagrender, nedløb m.m.)				bt.afl.ops	Afløb, opsamling  (tagrender)		
+2	5.52.5	Forbrugsanlæg (sanitet og armaturer)				bt.afl.ops	Afløb, opsamling (sanitet)		
+2	5.52.6	Automatik				bt.afl.sam	Afløbssystem (samlet)		
+1	5.53	Vand (koldt, varmt, behandlet vand)				bt.van.sam	Vandsystem (samlet)		
+2	5.53.1	Forsyningsanlæg (måler, beholdere m.m.)				bt.van.mål	Målerarrangement		
+2	5.53.2	Distributionsanlæg (rør, diverse ventiler)				bt.van.rør	Røranlæg		
+2	5.53.3	Forbrugsanlæg (div. aftapningsventiler)				bt.van.for	Forbrugsanlæg		
+2	5.53.4	Korrosionsbeskyttelse				bt.van.sam	Vandsystem		
+2	5.53.5	Automatik				bt.aut.sam	Automationssystem (samlet)		
+1	5.54	Luftarter	Gases supply systems			bt.gas.sam	Gas og luft		
+2	5.54.1	Forsyningsanlæg (kompressorer, beholdere, målere, pneumatisk styring m.m.)				bt.gas.sam	Gas og luft		
+2	5.54.2	Distributionsanlæg (rør, ventiler m.v.)				bt.gas.sam	Gas og luft		
+2	5.54.3	Forbr. anlæg (armaturer, gasradiatorer)				bt.gas.sam	Gas og luft		
+2	5.54.4	Automatik				bt.gas.sam	Gas og luft		
+1	5.55	Køling	Cooling systems			bt.køl.sam	Køleanlæg (samlet)		
+2	5.55.1	Forsyningsanlæg (aggregater m.m.)	Supply systems (units, etc.)			bt.køl.pro	Køleproduktionsanlæg		
+2	5.55.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)			bt.køl.rør	Røranlæg		
+2	5.55.3	Forbrugsanlæg (fordampere, køleflader, regulering, automatik m.m.)	Utilisation systems (evaporators, cooling surfaces, controls, automatics, etc.)			bt.køl.for	Forbrugsanlæg		
+2	5.55.4	El-installationer og automatik				bt.køl.sam	Køleanlæg		
+1	5.56	Varme	Heating systems			bt.var.sam	Varmeanlæg (samlet)		
+2	5.56.1	Forsyningsanlæg (kedler, varmevekslere, målere m.m.)	Supply systems (boilers, heaters, thermostats, etc.)			bt.var.pro	Varmeproduktionsanlæg		
+2	5.56.2	Distributionsanlæg (rør, ventiler m.m.)	Distribution systems (ducts, vents, etc.)			bt.var.rør	Røranlæg		
+2	5.56.3	Forbrugsanlæg (varmeflader, varmeventilatorer, lokal automatik og regulering m.m.)	Utilisation systems (radiators, convectors, local automatics and controls, etc.)			bt.var.for	Varme, forbrugsanlæg		
+2	5.56.4	Automatik				bt.var.pro	Varmeproduktionsanlæg		
+1	5.57	Ventilation				bt.ven.sam	Ventilationsanlæg (samlet)		
+2	5.57.1	Forsyningsanlæg (ventilationscentraler m.m.)	Supply systems (air handling equipment, etc.)			bt.ven.agg	Aggregat		
+2	5.57.2	Distributionsanlæg (rør, reguleringer m.m.)				bt.ven.kan	Kanal		
+2	5.57.3	Forbrugsanlæg (armaturer, emhætter, aftrækshætter m.m.)	Utilisation systems (fixtures, cooker hoods, vent fans, etc.)			bt.ven.iar	Indblæsningsarmatur		
+2	5.57.4	Automatik				bt.ven.agg	Aggregat		
+1	5.58	Øvrige VVS-anlæg, bygning							
+2	5.58.1	Sprinkleranlæg	Sprinkler systems			bt.van.for	Vand, Forbrugsanlæg		
+2	5.58.2	Vandrensningsanlæg	Water treatment systems			bt.van.beh	Vandbehandlingsanlæg		
+2	5.58.3	Specialanlæg for væsker	Special treatment systems for liquids						
+2	5.58.4	Automatik				bt.aut.sam	Automationssystem		
+0	6.6	EL- OG MEKANISKE ANLÆG	Services (mainly electrical)						
+1	6.60	El- og mekaniske anlæg, terræn	Site services, electrical and mechanical			tt.elf.sam	Elforsyningsanlæg (samlet)		
+2	6.60.1	Stikledninger uden for bygningen				tt.elf.sti	Elforsyning, stikledning		
+2	6.60.2	Vej- og pladsbelysningsanlæg	Road and outdoor lighting			tt.bly.sam	Vej- og pladsbelysningsanlæg	Road and outdoor lighting	
+2	6.60.3	Transformerstation, inkl. tavleanlæg				tt.elf.tra	Transformerstation		
+1	6.62	Højspænding							
+2	6.62.1	Forsyning	Electrical supply systems			bt.elf.sam	Elforsyningsanlæg		
+2	6.62.2	Hovedfordeling	Primary distribution systems			bt.elf.sam	Elforsyningsanlæg		
+2	6.62.3	Install. for maskiner og maskinanlæg				bt.elf.sam	Elforsyningsanlæg		
+2	6.62.4	El-tekniske anlæg	Electrical installations			bt.var.sam	Varmeanlæg (samlet)		
+2	6.62.5	Øvrige højspændingsanlæg				bt.elf.sam	Elforsyningsanlæg (samlet)		
+1	6.63	Lavspænding				bt.elf.sam	Elforsyningsanlæg (samlet)		
+2	6.63.1	Forsyning	Electrical supply systems			bt.elf.sam	Elforsyningsanlæg (samlet)		
+2	6.63.2	Hovedfordeling	Primary distribution systems			bt.elf.sam	Elforsyningsanlæg (samlet)		
+2	6.63.3	Install. for maskiner og maskinanlæg				bt.elf.sam	Elforsyningsanlæg (samlet)		
+2	6.63.4	El-tekniske anlæg	Electrical installations			bt.var.sam	Varmeanlæg (samlet)		
+2	6.63.5	Belysningsanlæg	Lighting systems			bt.bly.sam	Belysningsanlæg (samlet)		
+2	6.63.6	El-varme	Electric heating systems			bi.elr	El-radiatorer og apparater		
+2	6.63.7	El-apparater	Electrical appliances			bi.elr	El-radiatorer og apparater		
+1	6.64	Elektronik og svagstrøm	Information and communication technology						
+2	6.64.1	Kommunikationsanlæg	Communication systems			bt.kom,sam	Kommunikationsanlæg (samlet)		
+2	6.64.2	Dataanlæg	Telephone, radio, tv and computer systems			bt.kom.sam	Kommunikationsanlæg (samlet)		
+2	6.64.3	Informationsanlæg	Information and management systems			bt.kom.sam	Kommunikationsanlæg (samlet)		
+2	6.64.4	Sikringsanlæg	Security and fire detection systems			bt.adg.sam	Adgangssystem(samlet)		
+2	6.64.5	Bygningsautomationsanlæg				bt.aut.sam	Automationssystem (samlet)		
+1	6.66	Transportanlæg	Transport systems			bt.tra.sam	Transportsystem (samlet)		
+2	6.66.1	Elevatorer	Lifts			bt.tra.sam	Transportsystem (samlet)		
+2	6.66.2	Rullende trapper og fortove				bt.tra.sam	Transportsystem (samlet)		
+2	6.66.3	Transportbånd	Conveyor belts			bt.tra.sam	Transportsystem (samlet)		
+2	6.66.4	Rørpostanlæg				bt.tra.sam	Transportsystem (samlet)		
+2	6.66.5	Kraner				bt.tra.sam	Transportsystem (samlet)		
+2	6.66.6	Vinduesvaskervogne				bt.tra.sam	Transportsystem (samlet)		
+1	6.67	Mekaniske anlæg, øvrige	Other mechanical services						
+1	6.68	El-anlæg, bygning, øvrige							
+0	7.7	INVENTAR							
+1	7.70	Inventar, terræn	Site fittings			ti	Inventar, terræn	Site fittings	
+2	7.70.1	Tekniske inventarenheder, P-automater m.v.				ti.tei	Teknisk inventar, P-automater m.v.		
+2	7.70.2	Tavler, skilte, skærme				ti.tav	Tavler, skilte, skærme, riste, postkasser og cykelstativer		
+2	7.70.3	Opbev., affalds- og cykelstativer, postkasser				ti.aff	Affaldscontainer, -beholder og -stativ		
+2	7.70.4	Bordmøbler	Furniture for eating or working			ti.bor	Borde og bænke		
+2	7.70.5	Siddemøbler	Furniture for sitting			ti.bor	Borde og bænke		
+1	7.71	Tekniske inventarenheder				bi	Inventar		
+2	7.71.1	Automater for mad, drikke, sæbe m.m.				bi.atm	Automater for mad og drikke		
+2	7.71.2	Løse lamper	Movable lamps			bi.lam	Lamper, løse		
+2	7.71.3	Brandslukningsudstyr	Fire fighting equipment			bi.bra	Brandslukker		
+2	7.71.4	Hårde hvidevarer				bi.hvi	Hårde hvidevarer		
+1	7.72	Tavler, skilte og skærme	Panels, signs and displays						
+2	7.72.1	Skilte	Signs			bi.ski	Skilte	Signs	
+2	7.72.2	Spejle	Mirrors			bi.bad	Badeværelse inventar		
+2	7.72.3	AV-udrustning, tavle, projektorskærme				bi.avu	AV-udstyr		
+1	7.73	Opbevaringsmøbler	Storage furniture			bi.møb	Møbler		
+2	7.73.1	Hylder	Shelves			bi.møb	Møbler		
+2	7.73.2	Skabe og skuffemøbler	Cupboards and drawers			bi.møb	Møbler		
+2	7.73.3	Køkkeninventar				bi.køk	Køkkeninventar		
+2	7.73.4	Badeværelsesinventar				bi.bad	Badeværelse inventar		
+1	7.74	Bordmøbler	Furniture for eating or working			bi.møb	Møbler		
+2	7.74.1	Bordplader	Table tops, counter tops			bi.møb	Møbler		
+2	7.74.2	Arbejdsborde	Desktops, workbenches			bi.møb	Møbler		
+2	7.74.3	Borde til ophold og hvile	Tables for rest and relaxation			bi.møb	Møbler		
+1	7.75	Siddemøbler	Furniture for sitting			bi.møb	Møbler		
+2	7.75.1	Stole, bænke m.m. til arbejdsbrug				bi.møb	Møbler		
+2	7.75.2	Stole, bænke, sofaer m.m. til ophold og hvile	Chairs, benches, couches, etc., for rest and relaxation			bi.møb	Møbler		
+1	7.76	Liggemøbler	Furniture for sleeping			bi.møb	Møbler		
+2	7.76.1	Sengemøbler til alm. boliger	Bed furniture for regular residential			bi.møb	Møbler		
+2	7.76.2	Sengemøbler til institutioner m.m.	Bed furniture for institutions, etc.			bi.møb	Møbler		
+1	7.77	Boligtekstiler og afskærmning	Textiles and shading			bi.tet	Tekstil		
+2	7.77.1	Gardiner og forhæng	Curtains			bi.tet	Tekstil		
+2	7.77.2	Gulvtæpper og måtter	Carpets and mats			bi.tet	Tekstil		
+2	7.77.3	Persienner	Blinds			bi.tet	Tekstil		
+2	7.77.4	Skærmvægge	Screens, partition walls			bi.skæ	Skærmvæg		
+1	7.78	Øvrigt inventar, bygning							
+0	8.8	ØVRIGE BYGNINGSDELE							
+1	8.80	Beplantning, terræn				tb	Terræn beplantning		
+2	8.80.1	Græsplæner				tb.græ	Græs		
+2	8.80.2	Blomsterbede				tb.løg	Løgplanter		
+2	8.80.3	Hække				tb.hæk	Hække		
+2	8.80.4	Lave bevoksninger				tb.bus	Buske		
+2	8.80.5	Træbevoksninger				tb.træ	Træer		
