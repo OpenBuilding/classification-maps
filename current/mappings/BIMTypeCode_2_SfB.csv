@@ -111,7 +111,7 @@ FromLevel;FromCode;FromName_da;FromName_en;FromProperty_PropertyName;ToLevel;ToC
 3;303;Overgange i terræn;;;;;;;
 3;304;Kantbegrænsninger;;;;;;;
 3;305;Konstruerede elementer;;;;;;;
-3;309;Øvrigt terræn komplettering;;;;;;;
+3;309;Øvrigt terræn kompletteringer;;;;;;;
 2;31;Ydervægge, komplettering;;;;31;Ydervægge, komplettering;;
 3;311;Udvendige døre ;;;;31.2;Døre, ydervægge;;
 3;312;Udvendige vinduer;;;;31.4;Vinduer, ydervægge;;
